@@ -1,0 +1,1001 @@
+id_venda,data_venda,produto,categoria,quantidade,valor_unitario,valor_total,cidade
+1,2025-06-20 15:02:40,Tênis Branco Casual,Calçados,3,171.04,513.12,Itajubá
+2,2025-09-05 07:11:53,Blusa de Seda,Blusas,3,78.62,235.86,Itajubá
+3,2025-07-19 04:13:23,Blusa de Seda,Blusas,5,87.85,439.25,Rio de Janeiro
+4,2025-07-20 01:38:28,Calça de Moletom,Calças,3,143.74,431.22,Rio de Janeiro
+5,2025-08-19 10:37:19,Shorts de Linho,Shorts,3,73.9,221.7,Rio de Janeiro
+6,2025-08-04 19:15:09,Camisa Social,Camisas,1,117.01,117.01,Rio de Janeiro
+7,2025-08-25 13:24:13,Calça de Moletom,Calças,3,142.61,427.83,São Paulo
+8,2025-08-31 16:52:07,Vestido Longo de Festa,Vestidos,1,180.96,180.96,Itajubá
+9,2025-07-10 00:42:00,Saia Midi,Saias,3,96.18,288.54,Itajubá
+10,2025-06-12 07:34:45,Vestido Longo de Festa,Vestidos,2,195.45,390.9,Itajubá
+11,2025-06-11 23:20:07,Vestido de Verão,Vestidos,1,209.87,209.87,Itajubá
+12,2025-07-21 09:35:23,Bolsa Tiracolo,Acessórios,1,48.47,48.47,Rio de Janeiro
+13,2025-06-23 07:41:19,Saia Midi,Saias,2,93.81,187.62,São Paulo
+14,2025-07-20 22:25:50,Sandália de Salto,Calçados,4,180.59,722.36,Pouso Alegre
+15,2025-08-19 14:12:52,Calça de Moletom,Calças,4,141.94,567.76,Rio de Janeiro
+16,2025-08-31 00:32:25,Tênis Branco Casual,Calçados,5,162.21,811.05,Pouso Alegre
+17,2025-07-30 22:50:56,Vestido Longo de Festa,Vestidos,2,198.54,397.08,São Paulo
+18,2025-07-07 18:31:54,Jaqueta de Couro Sintético,Casacos,3,233.88,701.64,São Paulo
+19,2025-08-13 12:16:14,Cinto de Couro,Acessórios,1,48.66,48.66,Itajubá
+20,2025-07-05 03:41:26,Saia Midi,Saias,3,87.96,263.88,Rio de Janeiro
+21,2025-06-26 19:53:52,Shorts de Linho,Shorts,3,67.5,202.5,Itajubá
+22,2025-06-18 16:51:32,Calça Jeans Slim,Calças,1,158.59,158.59,São Paulo
+23,2025-08-20 07:23:17,Camisa Social,Camisas,1,105.49,105.49,Rio de Janeiro
+24,2025-07-03 07:52:01,Camisa Social,Camisas,4,111.01,444.04,Itajubá
+25,2025-08-01 17:35:11,Vestido Longo de Festa,Vestidos,1,184.88,184.88,São Paulo
+26,2025-08-23 15:56:32,Bolsa Tiracolo,Acessórios,2,52.1,104.2,São Paulo
+27,2025-07-21 09:38:31,Tênis Branco Casual,Calçados,2,189.06,378.12,Rio de Janeiro
+28,2025-06-11 16:27:55,Calça de Moletom,Calças,3,135.42,406.26,Rio de Janeiro
+29,2025-08-31 12:22:51,Tênis Branco Casual,Calçados,5,194.75,973.75,Rio de Janeiro
+30,2025-07-28 06:48:21,Calça Jeans Slim,Calças,2,162.41,324.82,Itajubá
+31,2025-08-10 04:43:00,Jaqueta de Couro Sintético,Casacos,5,257.53,1287.65,Rio de Janeiro
+32,2025-08-25 06:41:38,Cinto de Couro,Acessórios,4,46.05,184.2,São Paulo
+33,2025-07-05 18:48:18,Cinto de Couro,Acessórios,4,45.56,182.24,Rio de Janeiro
+34,2025-08-17 13:19:44,Sandália de Salto,Calçados,2,171.59,343.18,Rio de Janeiro
+35,2025-08-03 16:06:03,Sandália de Salto,Calçados,5,163.39,816.95,Pouso Alegre
+36,2025-07-12 09:40:57,Blusa de Seda,Blusas,2,76.61,153.22,Rio de Janeiro
+37,2025-06-09 19:24:24,Sandália de Salto,Calçados,1,166.7,166.7,São Paulo
+38,2025-06-14 05:34:11,Vestido Longo de Festa,Vestidos,2,193.67,387.34,Rio de Janeiro
+39,2025-09-05 03:44:53,Calça Jeans Slim,Calças,4,135.75,543.0,São Paulo
+40,2025-08-23 13:21:03,Cinto de Couro,Acessórios,3,53.42,160.26,Rio de Janeiro
+41,2025-06-28 00:10:51,Vestido de Verão,Vestidos,3,214.74,644.22,São Paulo
+42,2025-06-12 23:50:50,Jaqueta de Couro Sintético,Casacos,3,234.42,703.26,Pouso Alegre
+43,2025-06-26 12:24:05,Vestido de Verão,Vestidos,4,184.57,738.28,São Paulo
+44,2025-07-26 14:13:48,Calça de Moletom,Calças,5,145.07,725.35,Itajubá
+45,2025-07-15 23:19:10,Sandália de Salto,Calçados,5,164.08,820.4,Itajubá
+46,2025-06-10 11:30:34,Camisa Social,Camisas,4,111.44,445.76,São Paulo
+47,2025-07-27 00:55:54,Tênis Branco Casual,Calçados,3,171.01,513.03,São Paulo
+48,2025-08-19 02:07:31,Blusa de Seda,Blusas,4,82.35,329.4,Pouso Alegre
+49,2025-06-10 15:04:38,Shorts de Linho,Shorts,4,81.69,326.76,Itajubá
+50,2025-07-13 23:04:18,Blusa de Seda,Blusas,5,77.33,386.65,Rio de Janeiro
+51,2025-08-14 08:19:22,Sandália de Salto,Calçados,2,183.9,367.8,Rio de Janeiro
+52,2025-06-20 12:47:32,Blusa de Seda,Blusas,5,87.34,436.7,Pouso Alegre
+53,2025-06-15 04:36:02,Jaqueta de Couro Sintético,Casacos,3,273.65,820.95,Itajubá
+54,2025-08-03 04:08:11,Tênis Branco Casual,Calçados,4,189.03,756.12,Pouso Alegre
+55,2025-07-27 01:22:09,Camisa Social,Camisas,3,111.23,333.69,Rio de Janeiro
+56,2025-07-04 23:29:13,Calça Jeans Slim,Calças,1,164.69,164.69,Pouso Alegre
+57,2025-07-08 18:04:26,Tênis Branco Casual,Calçados,5,183.32,916.6,Itajubá
+58,2025-06-24 01:50:43,Camisa Social,Camisas,2,118.58,237.16,São Paulo
+59,2025-07-06 04:56:25,Calça de Moletom,Calças,4,145.1,580.4,Rio de Janeiro
+60,2025-08-07 03:29:37,Saia Midi,Saias,2,81.07,162.14,Pouso Alegre
+61,2025-08-28 15:11:14,Calça Jeans Slim,Calças,2,161.26,322.52,Itajubá
+62,2025-07-29 16:11:52,Camisa Social,Camisas,5,104.12,520.6,Itajubá
+63,2025-07-26 00:27:32,Vestido Longo de Festa,Vestidos,2,193.25,386.5,Itajubá
+64,2025-07-22 17:04:26,Saia Midi,Saias,4,93.39,373.56,Pouso Alegre
+65,2025-08-07 08:53:23,Jaqueta de Couro Sintético,Casacos,1,230.07,230.07,Rio de Janeiro
+66,2025-08-13 19:36:38,Vestido Longo de Festa,Vestidos,4,204.02,816.08,Itajubá
+67,2025-07-15 15:15:13,Vestido Longo de Festa,Vestidos,3,213.27,639.81,Rio de Janeiro
+68,2025-08-17 10:06:19,Sandália de Salto,Calçados,5,183.88,919.4,Rio de Janeiro
+69,2025-08-23 14:47:11,Saia Midi,Saias,2,83.34,166.68,Pouso Alegre
+70,2025-09-01 14:56:43,Saia Midi,Saias,2,87.63,175.26,São Paulo
+71,2025-07-19 01:12:21,Vestido de Verão,Vestidos,4,182.51,730.04,Rio de Janeiro
+72,2025-08-09 07:05:59,Vestido de Verão,Vestidos,5,207.95,1039.75,Pouso Alegre
+73,2025-07-24 18:00:52,Tênis Branco Casual,Calçados,5,192.59,962.95,São Paulo
+74,2025-06-12 14:13:59,Calça Jeans Slim,Calças,4,154.74,618.96,Pouso Alegre
+75,2025-06-09 00:40:43,Vestido de Verão,Vestidos,2,180.53,361.06,Pouso Alegre
+76,2025-06-22 01:32:47,Camisa Social,Camisas,1,119.18,119.18,Itajubá
+77,2025-08-04 10:06:11,Calça de Moletom,Calças,3,135.52,406.56,Rio de Janeiro
+78,2025-08-18 09:31:36,Calça Jeans Slim,Calças,4,149.34,597.36,Rio de Janeiro
+79,2025-06-28 21:42:51,Vestido de Verão,Vestidos,1,200.07,200.07,Itajubá
+80,2025-06-09 07:37:07,Jaqueta de Couro Sintético,Casacos,3,274.26,822.78,Itajubá
+81,2025-08-02 23:47:33,Saia Midi,Saias,2,85.07,170.14,Pouso Alegre
+82,2025-07-16 22:32:32,Calça de Moletom,Calças,5,144.62,723.1,Pouso Alegre
+83,2025-08-25 07:58:39,Jaqueta de Couro Sintético,Casacos,1,261.3,261.3,Itajubá
+84,2025-08-28 11:18:09,Camisa Social,Camisas,5,115.04,575.2,Itajubá
+85,2025-07-14 22:10:14,Shorts de Linho,Shorts,1,80.34,80.34,Itajubá
+86,2025-08-13 16:59:40,Saia Midi,Saias,5,81.48,407.4,São Paulo
+87,2025-07-21 03:56:00,Calça de Moletom,Calças,2,152.9,305.8,Pouso Alegre
+88,2025-07-16 15:07:16,Vestido de Verão,Vestidos,5,201.89,1009.45,Pouso Alegre
+89,2025-09-03 18:33:53,Saia Midi,Saias,4,81.89,327.56,São Paulo
+90,2025-08-02 02:00:27,Vestido de Verão,Vestidos,3,182.07,546.21,Itajubá
+91,2025-06-12 21:58:37,Sandália de Salto,Calçados,5,182.46,912.3,Itajubá
+92,2025-07-11 18:32:39,Vestido de Verão,Vestidos,4,207.35,829.4,Pouso Alegre
+93,2025-06-13 12:32:07,Blusa de Seda,Blusas,5,72.13,360.65,Pouso Alegre
+94,2025-08-21 07:59:34,Calça Jeans Slim,Calças,5,160.25,801.25,Itajubá
+95,2025-07-03 03:09:11,Calça Jeans Slim,Calças,2,137.61,275.22,Pouso Alegre
+96,2025-07-06 16:53:51,Saia Midi,Saias,3,81.66,244.98,São Paulo
+97,2025-07-18 08:53:45,Tênis Branco Casual,Calçados,4,165.79,663.16,Rio de Janeiro
+98,2025-07-19 22:52:53,Bolsa Tiracolo,Acessórios,4,49.83,199.32,São Paulo
+99,2025-07-26 11:41:28,Bolsa Tiracolo,Acessórios,3,49.16,147.48,Rio de Janeiro
+100,2025-06-27 19:50:48,Cinto de Couro,Acessórios,1,46.55,46.55,Rio de Janeiro
+101,2025-07-04 22:48:54,Sandália de Salto,Calçados,3,197.12,591.36,Pouso Alegre
+102,2025-06-22 20:51:41,Shorts de Linho,Shorts,5,74.25,371.25,Rio de Janeiro
+103,2025-08-21 18:31:16,Cinto de Couro,Acessórios,1,46.43,46.43,São Paulo
+104,2025-08-07 00:42:59,Vestido Longo de Festa,Vestidos,2,203.82,407.64,São Paulo
+105,2025-08-02 20:00:49,Calça Jeans Slim,Calças,2,152.05,304.1,Itajubá
+106,2025-07-06 09:13:51,Cinto de Couro,Acessórios,3,51.55,154.65,Pouso Alegre
+107,2025-07-18 17:04:34,Camisa Social,Camisas,5,107.91,539.55,Itajubá
+108,2025-07-23 22:23:39,Blusa de Seda,Blusas,1,73.8,73.8,Itajubá
+109,2025-06-20 22:38:55,Tênis Branco Casual,Calçados,1,189.41,189.41,São Paulo
+110,2025-08-24 09:44:31,Blusa de Seda,Blusas,4,72.37,289.48,Itajubá
+111,2025-08-07 09:58:52,Saia Midi,Saias,2,90.02,180.04,Rio de Janeiro
+112,2025-06-24 21:07:29,Jaqueta de Couro Sintético,Casacos,5,245.4,1227.0,Pouso Alegre
+113,2025-07-29 10:29:40,Shorts de Linho,Shorts,5,75.32,376.6,Pouso Alegre
+114,2025-07-07 14:20:49,Calça de Moletom,Calças,2,135.58,271.16,Rio de Janeiro
+115,2025-06-09 22:25:11,Cinto de Couro,Acessórios,5,50.19,250.95,Pouso Alegre
+116,2025-08-05 16:15:06,Calça Jeans Slim,Calças,2,160.12,320.24,Pouso Alegre
+117,2025-06-26 20:20:44,Saia Midi,Saias,3,95.44,286.32,São Paulo
+118,2025-08-22 05:23:43,Vestido de Verão,Vestidos,5,205.13,1025.65,Rio de Janeiro
+119,2025-08-05 12:43:23,Sandália de Salto,Calçados,4,182.8,731.2,Rio de Janeiro
+120,2025-08-08 10:09:24,Vestido de Verão,Vestidos,1,188.36,188.36,Itajubá
+121,2025-07-24 02:55:58,Calça Jeans Slim,Calças,3,140.2,420.6,São Paulo
+122,2025-07-23 03:47:43,Jaqueta de Couro Sintético,Casacos,4,268.85,1075.4,Rio de Janeiro
+123,2025-08-06 22:14:28,Calça de Moletom,Calças,1,139.94,139.94,Itajubá
+124,2025-06-08 20:47:58,Calça Jeans Slim,Calças,4,148.35,593.4,Pouso Alegre
+125,2025-08-01 07:33:48,Vestido Longo de Festa,Vestidos,5,195.49,977.45,São Paulo
+126,2025-07-15 06:31:18,Sandália de Salto,Calçados,2,172.84,345.68,Pouso Alegre
+127,2025-09-05 13:48:28,Camisa Social,Camisas,1,119.39,119.39,Pouso Alegre
+128,2025-07-29 01:41:28,Vestido Longo de Festa,Vestidos,3,192.43,577.29,Pouso Alegre
+129,2025-06-17 11:10:15,Vestido de Verão,Vestidos,4,206.4,825.6,Rio de Janeiro
+130,2025-08-05 11:57:46,Calça de Moletom,Calças,3,154.16,462.48,Rio de Janeiro
+131,2025-09-01 06:53:57,Vestido Longo de Festa,Vestidos,2,217.56,435.12,São Paulo
+132,2025-07-13 18:42:19,Cinto de Couro,Acessórios,4,50.82,203.28,Rio de Janeiro
+133,2025-06-12 04:53:46,Shorts de Linho,Shorts,2,68.52,137.04,Rio de Janeiro
+134,2025-07-15 06:53:58,Vestido Longo de Festa,Vestidos,4,195.5,782.0,São Paulo
+135,2025-07-01 05:03:56,Tênis Branco Casual,Calçados,5,177.79,888.95,Itajubá
+136,2025-07-05 06:14:58,Bolsa Tiracolo,Acessórios,3,48.66,145.98,Pouso Alegre
+137,2025-08-01 05:38:52,Camisa Social,Camisas,4,103.58,414.32,Pouso Alegre
+138,2025-07-06 13:41:10,Jaqueta de Couro Sintético,Casacos,4,235.92,943.68,São Paulo
+139,2025-07-18 19:34:45,Camisa Social,Camisas,1,113.95,113.95,Itajubá
+140,2025-07-14 21:13:38,Tênis Branco Casual,Calçados,4,189.55,758.2,Rio de Janeiro
+141,2025-07-31 18:57:04,Shorts de Linho,Shorts,2,79.08,158.16,Itajubá
+142,2025-06-28 19:57:24,Bolsa Tiracolo,Acessórios,5,51.69,258.45,Pouso Alegre
+143,2025-06-19 02:13:03,Saia Midi,Saias,5,83.77,418.85,São Paulo
+144,2025-08-03 00:29:41,Vestido Longo de Festa,Vestidos,4,210.86,843.44,Itajubá
+145,2025-06-20 07:44:45,Cinto de Couro,Acessórios,3,47.19,141.57,Pouso Alegre
+146,2025-06-13 06:21:33,Vestido Longo de Festa,Vestidos,3,200.41,601.23,São Paulo
+147,2025-06-07 21:45:22,Camisa Social,Camisas,4,99.89,399.56,Rio de Janeiro
+148,2025-08-26 05:41:57,Blusa de Seda,Blusas,4,74.16,296.64,Pouso Alegre
+149,2025-08-10 15:19:08,Calça Jeans Slim,Calças,3,148.96,446.88,Rio de Janeiro
+150,2025-07-29 03:57:04,Vestido Longo de Festa,Vestidos,3,204.07,612.21,Itajubá
+151,2025-07-23 23:24:01,Camisa Social,Camisas,1,119.18,119.18,Itajubá
+152,2025-07-20 07:28:11,Camisa Social,Camisas,5,118.48,592.4,São Paulo
+153,2025-07-20 19:23:58,Cinto de Couro,Acessórios,3,52.87,158.61,Rio de Janeiro
+154,2025-06-27 09:12:27,Calça de Moletom,Calças,4,149.65,598.6,São Paulo
+155,2025-09-03 22:30:13,Jaqueta de Couro Sintético,Casacos,1,252.23,252.23,Rio de Janeiro
+156,2025-08-06 00:25:33,Cinto de Couro,Acessórios,2,53.93,107.86,Itajubá
+157,2025-07-14 05:03:33,Saia Midi,Saias,2,84.75,169.5,São Paulo
+158,2025-07-27 14:25:57,Vestido de Verão,Vestidos,1,202.22,202.22,Rio de Janeiro
+159,2025-07-11 18:10:20,Tênis Branco Casual,Calçados,5,164.55,822.75,Rio de Janeiro
+160,2025-08-21 03:50:33,Sandália de Salto,Calçados,2,177.4,354.8,Itajubá
+161,2025-08-02 04:06:12,Cinto de Couro,Acessórios,5,48.4,242.0,Pouso Alegre
+162,2025-06-12 18:13:09,Vestido de Verão,Vestidos,4,189.67,758.68,São Paulo
+163,2025-07-26 18:36:11,Vestido de Verão,Vestidos,2,193.22,386.44,Itajubá
+164,2025-07-25 09:12:22,Calça de Moletom,Calças,5,155.58,777.9,Itajubá
+165,2025-06-30 08:38:44,Blusa de Seda,Blusas,3,75.35,226.05,Rio de Janeiro
+166,2025-08-26 09:12:15,Saia Midi,Saias,4,81.69,326.76,São Paulo
+167,2025-06-28 19:10:18,Cinto de Couro,Acessórios,3,47.82,143.46,Rio de Janeiro
+168,2025-08-03 03:20:08,Sandália de Salto,Calçados,1,189.22,189.22,Pouso Alegre
+169,2025-08-10 01:00:48,Camisa Social,Camisas,2,102.69,205.38,Rio de Janeiro
+170,2025-07-10 06:25:10,Camisa Social,Camisas,1,120.88,120.88,Rio de Janeiro
+171,2025-07-09 11:32:53,Bolsa Tiracolo,Acessórios,3,48.75,146.25,São Paulo
+172,2025-07-30 16:05:35,Vestido Longo de Festa,Vestidos,3,199.12,597.36,Rio de Janeiro
+173,2025-08-20 04:09:14,Cinto de Couro,Acessórios,5,49.91,249.55,São Paulo
+174,2025-06-29 17:49:36,Cinto de Couro,Acessórios,3,50.01,150.03,Rio de Janeiro
+175,2025-07-08 12:01:33,Jaqueta de Couro Sintético,Casacos,3,274.45,823.35,Rio de Janeiro
+176,2025-06-27 05:48:38,Tênis Branco Casual,Calçados,2,164.39,328.78,Rio de Janeiro
+177,2025-08-12 23:34:23,Jaqueta de Couro Sintético,Casacos,4,249.89,999.56,Pouso Alegre
+178,2025-07-24 19:51:08,Blusa de Seda,Blusas,3,83.82,251.46,Rio de Janeiro
+179,2025-06-27 19:39:01,Sandália de Salto,Calçados,5,193.99,969.95,Pouso Alegre
+180,2025-07-08 03:41:31,Sandália de Salto,Calçados,5,166.71,833.55,Pouso Alegre
+181,2025-08-15 19:20:39,Sandália de Salto,Calçados,5,189.02,945.1,Rio de Janeiro
+182,2025-07-22 02:03:24,Saia Midi,Saias,3,84.61,253.83,Rio de Janeiro
+183,2025-07-04 23:15:25,Vestido de Verão,Vestidos,1,190.23,190.23,Itajubá
+184,2025-08-18 13:10:01,Calça de Moletom,Calças,5,135.62,678.1,Itajubá
+185,2025-07-27 00:06:04,Cinto de Couro,Acessórios,1,50.24,50.24,Rio de Janeiro
+186,2025-06-22 16:38:00,Sandália de Salto,Calçados,4,186.52,746.08,Rio de Janeiro
+187,2025-07-18 09:06:57,Blusa de Seda,Blusas,5,84.58,422.9,Itajubá
+188,2025-08-30 04:22:00,Calça de Moletom,Calças,4,147.05,588.2,Itajubá
+189,2025-06-26 19:35:25,Blusa de Seda,Blusas,3,78.08,234.24,Pouso Alegre
+190,2025-07-18 15:05:31,Calça de Moletom,Calças,3,155.53,466.59,Itajubá
+191,2025-08-21 08:04:39,Vestido de Verão,Vestidos,4,191.46,765.84,São Paulo
+192,2025-06-12 11:34:08,Shorts de Linho,Shorts,4,68.28,273.12,Itajubá
+193,2025-08-29 05:38:49,Vestido de Verão,Vestidos,1,212.26,212.26,Pouso Alegre
+194,2025-07-14 07:45:20,Sandália de Salto,Calçados,1,178.29,178.29,São Paulo
+195,2025-07-27 04:55:09,Saia Midi,Saias,1,85.31,85.31,Pouso Alegre
+196,2025-08-31 01:29:24,Shorts de Linho,Shorts,1,70.28,70.28,Pouso Alegre
+197,2025-06-14 01:16:35,Cinto de Couro,Acessórios,4,51.74,206.96,Itajubá
+198,2025-07-20 07:23:40,Saia Midi,Saias,3,96.16,288.48,São Paulo
+199,2025-07-21 17:40:24,Bolsa Tiracolo,Acessórios,5,45.06,225.3,Pouso Alegre
+200,2025-06-27 04:12:10,Blusa de Seda,Blusas,1,73.13,73.13,Rio de Janeiro
+201,2025-08-06 04:27:52,Saia Midi,Saias,4,90.34,361.36,Pouso Alegre
+202,2025-08-04 13:33:31,Bolsa Tiracolo,Acessórios,5,48.13,240.65,Pouso Alegre
+203,2025-07-19 06:30:30,Blusa de Seda,Blusas,2,72.07,144.14,São Paulo
+204,2025-07-08 15:32:15,Sandália de Salto,Calçados,1,178.61,178.61,São Paulo
+205,2025-06-30 10:57:18,Blusa de Seda,Blusas,2,86.79,173.58,Pouso Alegre
+206,2025-07-17 16:28:13,Vestido de Verão,Vestidos,3,189.79,569.37,São Paulo
+207,2025-07-30 05:35:53,Saia Midi,Saias,3,95.5,286.5,Pouso Alegre
+208,2025-09-05 19:01:17,Camisa Social,Camisas,1,101.08,101.08,Itajubá
+209,2025-06-21 15:43:29,Jaqueta de Couro Sintético,Casacos,1,251.75,251.75,São Paulo
+210,2025-06-14 15:58:41,Calça de Moletom,Calças,4,145.15,580.6,Pouso Alegre
+211,2025-08-25 13:01:13,Sandália de Salto,Calçados,5,188.18,940.9,São Paulo
+212,2025-06-20 23:59:08,Tênis Branco Casual,Calçados,3,164.73,494.19,São Paulo
+213,2025-07-25 20:15:04,Bolsa Tiracolo,Acessórios,4,51.89,207.56,Rio de Janeiro
+214,2025-07-03 21:29:50,Jaqueta de Couro Sintético,Casacos,2,269.06,538.12,Pouso Alegre
+215,2025-08-08 23:18:45,Vestido de Verão,Vestidos,1,219.8,219.8,Itajubá
+216,2025-08-03 08:45:58,Calça de Moletom,Calças,1,135.37,135.37,Rio de Janeiro
+217,2025-06-08 11:48:33,Cinto de Couro,Acessórios,3,45.74,137.22,São Paulo
+218,2025-06-10 01:16:05,Jaqueta de Couro Sintético,Casacos,5,225.32,1126.6,Itajubá
+219,2025-07-08 15:57:20,Blusa de Seda,Blusas,5,72.35,361.75,Itajubá
+220,2025-07-02 22:00:02,Sandália de Salto,Calçados,1,191.41,191.41,São Paulo
+221,2025-07-11 15:21:03,Tênis Branco Casual,Calçados,2,182.23,364.46,Pouso Alegre
+222,2025-06-23 01:27:52,Cinto de Couro,Acessórios,5,50.52,252.6,Itajubá
+223,2025-08-24 16:07:53,Blusa de Seda,Blusas,2,86.23,172.46,São Paulo
+224,2025-06-18 14:00:20,Sandália de Salto,Calçados,1,190.09,190.09,Rio de Janeiro
+225,2025-08-17 20:59:13,Calça Jeans Slim,Calças,5,153.42,767.1,Rio de Janeiro
+226,2025-07-05 02:53:31,Vestido Longo de Festa,Vestidos,3,213.41,640.23,Rio de Janeiro
+227,2025-08-28 09:25:30,Bolsa Tiracolo,Acessórios,4,50.76,203.04,Itajubá
+228,2025-08-07 12:59:16,Sandália de Salto,Calçados,3,176.44,529.32,São Paulo
+229,2025-08-15 01:04:18,Tênis Branco Casual,Calçados,5,192.23,961.15,São Paulo
+230,2025-07-09 16:57:52,Cinto de Couro,Acessórios,2,46.89,93.78,Itajubá
+231,2025-07-23 21:32:59,Sandália de Salto,Calçados,5,177.75,888.75,Pouso Alegre
+232,2025-07-24 00:13:22,Sandália de Salto,Calçados,5,174.25,871.25,Itajubá
+233,2025-08-09 08:58:19,Vestido de Verão,Vestidos,5,210.48,1052.4,São Paulo
+234,2025-06-09 20:28:53,Vestido Longo de Festa,Vestidos,1,205.48,205.48,São Paulo
+235,2025-07-20 05:25:35,Vestido de Verão,Vestidos,1,189.08,189.08,Itajubá
+236,2025-09-02 22:06:44,Vestido de Verão,Vestidos,5,185.98,929.9,Itajubá
+237,2025-07-18 14:53:07,Cinto de Couro,Acessórios,2,52.45,104.9,Itajubá
+238,2025-06-16 21:34:26,Blusa de Seda,Blusas,1,80.6,80.6,Pouso Alegre
+239,2025-06-16 13:22:05,Cinto de Couro,Acessórios,2,52.9,105.8,Pouso Alegre
+240,2025-09-01 22:22:38,Shorts de Linho,Shorts,4,71.15,284.6,Itajubá
+241,2025-08-12 22:38:13,Vestido Longo de Festa,Vestidos,3,190.87,572.61,São Paulo
+242,2025-06-28 06:51:06,Cinto de Couro,Acessórios,3,49.81,149.43,Itajubá
+243,2025-06-13 02:37:05,Sandália de Salto,Calçados,1,163.03,163.03,Itajubá
+244,2025-06-14 15:34:34,Bolsa Tiracolo,Acessórios,2,54.08,108.16,São Paulo
+245,2025-07-03 23:26:32,Vestido de Verão,Vestidos,1,211.83,211.83,Rio de Janeiro
+246,2025-07-24 09:56:27,Vestido Longo de Festa,Vestidos,3,200.66,601.98,São Paulo
+247,2025-06-16 23:58:56,Vestido de Verão,Vestidos,5,212.8,1064.0,São Paulo
+248,2025-08-02 20:13:07,Sandália de Salto,Calçados,5,170.99,854.95,Rio de Janeiro
+249,2025-08-17 17:14:59,Saia Midi,Saias,2,83.34,166.68,Pouso Alegre
+250,2025-09-04 14:08:49,Blusa de Seda,Blusas,4,74.54,298.16,São Paulo
+251,2025-08-21 05:37:14,Vestido Longo de Festa,Vestidos,4,184.89,739.56,Rio de Janeiro
+252,2025-07-22 23:37:16,Calça de Moletom,Calças,4,159.9,639.6,Itajubá
+253,2025-07-14 15:24:35,Calça de Moletom,Calças,5,148.02,740.1,Rio de Janeiro
+254,2025-08-29 23:00:35,Camisa Social,Camisas,1,104.51,104.51,Rio de Janeiro
+255,2025-06-27 18:58:58,Cinto de Couro,Acessórios,4,53.5,214.0,Itajubá
+256,2025-07-17 12:26:46,Jaqueta de Couro Sintético,Casacos,2,252.03,504.06,Itajubá
+257,2025-07-18 10:00:32,Blusa de Seda,Blusas,3,74.57,223.71,Rio de Janeiro
+258,2025-07-31 04:07:32,Cinto de Couro,Acessórios,5,51.72,258.6,São Paulo
+259,2025-07-01 12:39:44,Saia Midi,Saias,4,81.91,327.64,Rio de Janeiro
+260,2025-06-25 05:07:12,Tênis Branco Casual,Calçados,4,165.14,660.56,Itajubá
+261,2025-06-12 19:26:20,Blusa de Seda,Blusas,2,85.76,171.52,Rio de Janeiro
+262,2025-08-20 01:03:59,Blusa de Seda,Blusas,1,72.93,72.93,Pouso Alegre
+263,2025-08-22 07:55:09,Calça de Moletom,Calças,5,159.61,798.05,Itajubá
+264,2025-06-28 01:22:12,Saia Midi,Saias,4,85.7,342.8,Rio de Janeiro
+265,2025-09-03 03:30:10,Vestido de Verão,Vestidos,1,197.45,197.45,Rio de Janeiro
+266,2025-08-22 06:17:00,Sandália de Salto,Calçados,4,168.29,673.16,Rio de Janeiro
+267,2025-09-01 06:31:31,Cinto de Couro,Acessórios,4,48.43,193.72,Pouso Alegre
+268,2025-06-26 17:50:17,Tênis Branco Casual,Calçados,1,187.64,187.64,Pouso Alegre
+269,2025-06-17 15:19:06,Jaqueta de Couro Sintético,Casacos,5,255.55,1277.75,São Paulo
+270,2025-07-31 06:04:11,Saia Midi,Saias,3,94.54,283.62,Pouso Alegre
+271,2025-06-11 03:10:55,Bolsa Tiracolo,Acessórios,1,50.7,50.7,Itajubá
+272,2025-06-29 06:04:09,Jaqueta de Couro Sintético,Casacos,3,262.57,787.71,Itajubá
+273,2025-06-22 07:18:40,Calça de Moletom,Calças,2,160.1,320.2,Pouso Alegre
+274,2025-06-15 10:00:32,Saia Midi,Saias,4,97.3,389.2,São Paulo
+275,2025-06-08 18:19:47,Cinto de Couro,Acessórios,2,52.61,105.22,Itajubá
+276,2025-06-27 08:26:35,Saia Midi,Saias,2,93.25,186.5,Itajubá
+277,2025-07-25 00:10:30,Camisa Social,Camisas,1,114.29,114.29,São Paulo
+278,2025-06-11 19:09:25,Jaqueta de Couro Sintético,Casacos,5,225.53,1127.65,Itajubá
+279,2025-07-07 17:21:40,Jaqueta de Couro Sintético,Casacos,1,258.92,258.92,Pouso Alegre
+280,2025-08-14 14:05:39,Vestido Longo de Festa,Vestidos,2,197.9,395.8,São Paulo
+281,2025-07-21 12:34:02,Sandália de Salto,Calçados,3,171.45,514.35,Rio de Janeiro
+282,2025-07-15 23:26:15,Cinto de Couro,Acessórios,5,45.09,225.45,Pouso Alegre
+283,2025-06-07 21:26:30,Saia Midi,Saias,4,94.52,378.08,São Paulo
+284,2025-07-25 08:02:10,Bolsa Tiracolo,Acessórios,3,46.36,139.08,São Paulo
+285,2025-08-01 03:18:16,Tênis Branco Casual,Calçados,2,187.4,374.8,Itajubá
+286,2025-06-29 18:58:59,Blusa de Seda,Blusas,5,77.99,389.95,Itajubá
+287,2025-06-24 01:22:09,Bolsa Tiracolo,Acessórios,5,52.98,264.9,Itajubá
+288,2025-08-14 11:42:49,Sandália de Salto,Calçados,2,193.35,386.7,Rio de Janeiro
+289,2025-06-23 22:20:23,Calça Jeans Slim,Calças,3,140.4,421.2,Itajubá
+290,2025-07-25 16:19:25,Bolsa Tiracolo,Acessórios,2,53.03,106.06,Rio de Janeiro
+291,2025-07-02 07:09:55,Sandália de Salto,Calçados,2,186.41,372.82,São Paulo
+292,2025-06-28 19:05:55,Shorts de Linho,Shorts,3,75.35,226.05,Itajubá
+293,2025-07-26 08:28:00,Jaqueta de Couro Sintético,Casacos,1,250.83,250.83,Itajubá
+294,2025-07-17 04:36:43,Cinto de Couro,Acessórios,2,50.6,101.2,Rio de Janeiro
+295,2025-07-24 10:14:52,Calça Jeans Slim,Calças,2,152.07,304.14,Itajubá
+296,2025-07-13 11:41:26,Blusa de Seda,Blusas,4,73.68,294.72,Pouso Alegre
+297,2025-08-16 21:07:18,Shorts de Linho,Shorts,5,70.78,353.9,Rio de Janeiro
+298,2025-09-05 16:02:31,Sandália de Salto,Calçados,2,194.18,388.36,Itajubá
+299,2025-08-30 07:26:18,Vestido Longo de Festa,Vestidos,4,212.88,851.52,Rio de Janeiro
+300,2025-07-21 12:44:31,Calça Jeans Slim,Calças,4,135.61,542.44,São Paulo
+301,2025-07-07 00:33:25,Calça de Moletom,Calças,3,162.27,486.81,Rio de Janeiro
+302,2025-07-10 13:17:38,Calça Jeans Slim,Calças,3,143.86,431.58,São Paulo
+303,2025-06-26 17:24:29,Bolsa Tiracolo,Acessórios,2,51.45,102.9,São Paulo
+304,2025-06-11 03:08:41,Vestido de Verão,Vestidos,1,191.74,191.74,Itajubá
+305,2025-06-09 02:18:10,Jaqueta de Couro Sintético,Casacos,4,235.99,943.96,Pouso Alegre
+306,2025-07-08 18:21:12,Calça de Moletom,Calças,2,150.26,300.52,São Paulo
+307,2025-08-17 21:01:16,Shorts de Linho,Shorts,4,79.04,316.16,São Paulo
+308,2025-09-04 01:04:04,Calça Jeans Slim,Calças,2,152.68,305.36,Rio de Janeiro
+309,2025-07-26 15:32:08,Jaqueta de Couro Sintético,Casacos,5,227.29,1136.45,Pouso Alegre
+310,2025-07-26 09:43:37,Sandália de Salto,Calçados,2,178.77,357.54,Itajubá
+311,2025-07-12 06:00:06,Calça de Moletom,Calças,2,152.05,304.1,Itajubá
+312,2025-08-19 06:25:54,Vestido de Verão,Vestidos,5,214.19,1070.95,Itajubá
+313,2025-06-25 09:25:10,Sandália de Salto,Calçados,1,182.84,182.84,Itajubá
+314,2025-07-19 11:53:50,Calça Jeans Slim,Calças,1,148.57,148.57,Pouso Alegre
+315,2025-06-15 05:46:40,Tênis Branco Casual,Calçados,1,166.56,166.56,São Paulo
+316,2025-07-04 02:35:53,Cinto de Couro,Acessórios,3,49.19,147.57,Itajubá
+317,2025-06-22 09:45:04,Jaqueta de Couro Sintético,Casacos,1,241.53,241.53,Pouso Alegre
+318,2025-08-25 11:37:15,Calça Jeans Slim,Calças,1,142.63,142.63,Itajubá
+319,2025-08-14 05:44:22,Calça Jeans Slim,Calças,5,152.52,762.6,Rio de Janeiro
+320,2025-07-16 21:23:15,Vestido Longo de Festa,Vestidos,2,202.31,404.62,Itajubá
+321,2025-07-06 15:05:30,Calça de Moletom,Calças,2,152.85,305.7,Pouso Alegre
+322,2025-09-01 06:50:59,Camisa Social,Camisas,5,117.92,589.6,Itajubá
+323,2025-06-27 23:08:31,Calça de Moletom,Calças,5,159.83,799.15,Rio de Janeiro
+324,2025-06-27 10:43:34,Bolsa Tiracolo,Acessórios,3,50.97,152.91,Rio de Janeiro
+325,2025-07-27 08:28:28,Blusa de Seda,Blusas,1,77.77,77.77,Rio de Janeiro
+326,2025-09-03 17:58:08,Vestido de Verão,Vestidos,4,211.03,844.12,Itajubá
+327,2025-07-08 16:54:31,Vestido Longo de Festa,Vestidos,3,214.91,644.73,Pouso Alegre
+328,2025-08-23 10:50:23,Saia Midi,Saias,2,81.56,163.12,Rio de Janeiro
+329,2025-07-26 17:05:05,Jaqueta de Couro Sintético,Casacos,5,264.22,1321.1,Pouso Alegre
+330,2025-08-10 04:52:27,Shorts de Linho,Shorts,1,70.86,70.86,São Paulo
+331,2025-06-30 17:01:36,Vestido de Verão,Vestidos,5,184.91,924.55,Rio de Janeiro
+332,2025-07-24 14:24:50,Shorts de Linho,Shorts,2,67.9,135.8,Rio de Janeiro
+333,2025-06-19 04:57:10,Vestido de Verão,Vestidos,4,195.57,782.28,Itajubá
+334,2025-06-10 22:05:54,Sandália de Salto,Calçados,1,184.95,184.95,Rio de Janeiro
+335,2025-08-18 15:52:47,Cinto de Couro,Acessórios,4,45.62,182.48,Pouso Alegre
+336,2025-06-18 06:10:59,Jaqueta de Couro Sintético,Casacos,5,255.12,1275.6,Itajubá
+337,2025-08-14 08:36:10,Camisa Social,Camisas,5,99.1,495.5,Rio de Janeiro
+338,2025-06-23 08:55:06,Sandália de Salto,Calçados,3,166.35,499.05,Pouso Alegre
+339,2025-07-05 11:53:43,Sandália de Salto,Calçados,4,185.39,741.56,Itajubá
+340,2025-08-25 11:39:28,Calça de Moletom,Calças,1,135.51,135.51,Itajubá
+341,2025-09-02 16:41:44,Sandália de Salto,Calçados,2,192.22,384.44,São Paulo
+342,2025-09-03 12:51:53,Bolsa Tiracolo,Acessórios,5,51.64,258.2,Itajubá
+343,2025-08-13 22:45:34,Bolsa Tiracolo,Acessórios,4,49.56,198.24,São Paulo
+344,2025-08-30 19:28:07,Tênis Branco Casual,Calçados,2,165.83,331.66,São Paulo
+345,2025-08-27 05:40:13,Vestido de Verão,Vestidos,5,211.97,1059.85,São Paulo
+346,2025-06-20 10:22:01,Saia Midi,Saias,5,81.51,407.55,São Paulo
+347,2025-07-05 08:34:48,Sandália de Salto,Calçados,5,182.2,911.0,São Paulo
+348,2025-06-13 01:07:17,Vestido Longo de Festa,Vestidos,1,201.22,201.22,Rio de Janeiro
+349,2025-08-20 03:02:04,Jaqueta de Couro Sintético,Casacos,1,238.34,238.34,Itajubá
+350,2025-08-24 12:52:56,Vestido Longo de Festa,Vestidos,1,219.51,219.51,Rio de Janeiro
+351,2025-07-15 08:46:16,Shorts de Linho,Shorts,4,78.84,315.36,Rio de Janeiro
+352,2025-08-17 22:11:45,Cinto de Couro,Acessórios,3,49.39,148.17,São Paulo
+353,2025-07-03 08:44:25,Vestido de Verão,Vestidos,1,192.68,192.68,São Paulo
+354,2025-08-22 00:42:58,Cinto de Couro,Acessórios,1,47.85,47.85,São Paulo
+355,2025-06-11 07:56:44,Tênis Branco Casual,Calçados,1,191.62,191.62,Pouso Alegre
+356,2025-06-09 16:20:59,Vestido de Verão,Vestidos,2,216.23,432.46,Rio de Janeiro
+357,2025-08-01 14:05:08,Blusa de Seda,Blusas,4,81.67,326.68,São Paulo
+358,2025-07-08 12:15:13,Jaqueta de Couro Sintético,Casacos,5,255.68,1278.4,Itajubá
+359,2025-07-02 05:59:49,Cinto de Couro,Acessórios,4,53.07,212.28,Rio de Janeiro
+360,2025-06-14 20:07:20,Sandália de Salto,Calçados,2,195.92,391.84,Pouso Alegre
+361,2025-06-19 17:21:02,Blusa de Seda,Blusas,1,86.8,86.8,Rio de Janeiro
+362,2025-07-19 05:48:58,Blusa de Seda,Blusas,1,72.3,72.3,Itajubá
+363,2025-07-09 14:59:33,Cinto de Couro,Acessórios,2,50.79,101.58,Itajubá
+364,2025-08-28 13:40:47,Vestido Longo de Festa,Vestidos,5,182.8,914.0,Rio de Janeiro
+365,2025-08-16 14:55:08,Sandália de Salto,Calçados,2,173.39,346.78,Itajubá
+366,2025-07-19 22:49:30,Vestido Longo de Festa,Vestidos,2,186.57,373.14,Itajubá
+367,2025-07-24 17:59:56,Camisa Social,Camisas,3,117.17,351.51,São Paulo
+368,2025-06-27 06:30:22,Sandália de Salto,Calçados,3,184.46,553.38,Pouso Alegre
+369,2025-08-04 20:49:42,Vestido Longo de Festa,Vestidos,1,188.7,188.7,Pouso Alegre
+370,2025-07-30 12:17:48,Tênis Branco Casual,Calçados,4,190.55,762.2,Pouso Alegre
+371,2025-06-11 08:01:23,Calça de Moletom,Calças,5,157.47,787.35,São Paulo
+372,2025-06-22 09:58:42,Shorts de Linho,Shorts,2,74.36,148.72,Rio de Janeiro
+373,2025-07-19 09:33:47,Calça Jeans Slim,Calças,4,145.76,583.04,Itajubá
+374,2025-06-29 12:18:19,Saia Midi,Saias,3,83.49,250.47,Itajubá
+375,2025-06-11 13:05:58,Calça de Moletom,Calças,3,153.51,460.53,Rio de Janeiro
+376,2025-07-05 06:08:55,Camisa Social,Camisas,3,115.89,347.67,Rio de Janeiro
+377,2025-09-03 16:52:05,Vestido de Verão,Vestidos,2,195.15,390.3,São Paulo
+378,2025-06-18 05:26:18,Vestido de Verão,Vestidos,1,195.74,195.74,Pouso Alegre
+379,2025-07-10 18:18:28,Saia Midi,Saias,3,81.91,245.73,Pouso Alegre
+380,2025-07-23 16:17:52,Blusa de Seda,Blusas,3,85.75,257.25,Itajubá
+381,2025-07-23 09:31:05,Camisa Social,Camisas,1,104.66,104.66,Pouso Alegre
+382,2025-08-31 19:57:57,Shorts de Linho,Shorts,2,68.09,136.18,Itajubá
+383,2025-09-04 18:50:18,Saia Midi,Saias,5,85.68,428.4,Rio de Janeiro
+384,2025-07-07 21:50:03,Bolsa Tiracolo,Acessórios,3,52.1,156.3,São Paulo
+385,2025-08-31 16:15:24,Blusa de Seda,Blusas,2,86.23,172.46,São Paulo
+386,2025-08-06 07:50:34,Vestido de Verão,Vestidos,1,189.2,189.2,São Paulo
+387,2025-07-12 21:26:46,Saia Midi,Saias,1,81.73,81.73,Pouso Alegre
+388,2025-07-16 19:15:53,Cinto de Couro,Acessórios,3,47.29,141.87,Itajubá
+389,2025-06-09 08:24:31,Calça Jeans Slim,Calças,4,159.31,637.24,Pouso Alegre
+390,2025-08-26 23:34:23,Saia Midi,Saias,3,95.12,285.36,São Paulo
+391,2025-08-19 14:58:21,Shorts de Linho,Shorts,5,70.5,352.5,Pouso Alegre
+392,2025-08-06 06:49:55,Vestido Longo de Festa,Vestidos,1,182.06,182.06,Pouso Alegre
+393,2025-09-01 15:15:54,Calça de Moletom,Calças,3,162.26,486.78,Rio de Janeiro
+394,2025-06-19 10:48:00,Shorts de Linho,Shorts,1,73.49,73.49,Rio de Janeiro
+395,2025-08-01 01:03:47,Vestido de Verão,Vestidos,5,203.27,1016.35,São Paulo
+396,2025-07-24 03:00:03,Blusa de Seda,Blusas,5,87.56,437.8,Itajubá
+397,2025-09-02 23:52:05,Vestido Longo de Festa,Vestidos,4,200.21,800.84,São Paulo
+398,2025-06-09 08:53:17,Blusa de Seda,Blusas,3,85.17,255.51,Rio de Janeiro
+399,2025-08-21 22:13:51,Calça de Moletom,Calças,1,146.76,146.76,Rio de Janeiro
+400,2025-08-20 00:48:31,Calça Jeans Slim,Calças,2,161.52,323.04,Itajubá
+401,2025-07-29 13:48:56,Calça Jeans Slim,Calças,4,164.74,658.96,Itajubá
+402,2025-09-02 20:44:08,Saia Midi,Saias,4,96.36,385.44,Itajubá
+403,2025-08-18 01:29:40,Calça de Moletom,Calças,4,150.4,601.6,Itajubá
+404,2025-08-05 08:30:14,Sandália de Salto,Calçados,4,168.19,672.76,Rio de Janeiro
+405,2025-08-06 19:13:43,Tênis Branco Casual,Calçados,1,177.16,177.16,Itajubá
+406,2025-07-09 14:34:20,Cinto de Couro,Acessórios,3,49.14,147.42,Itajubá
+407,2025-06-13 22:35:26,Tênis Branco Casual,Calçados,5,174.03,870.15,Pouso Alegre
+408,2025-07-15 09:18:06,Vestido de Verão,Vestidos,2,195.53,391.06,Rio de Janeiro
+409,2025-07-14 03:06:14,Vestido Longo de Festa,Vestidos,3,185.4,556.2,São Paulo
+410,2025-08-14 10:35:39,Shorts de Linho,Shorts,4,67.51,270.04,São Paulo
+411,2025-08-16 08:23:46,Shorts de Linho,Shorts,2,77.39,154.78,Pouso Alegre
+412,2025-09-03 10:54:25,Calça de Moletom,Calças,3,139.97,419.91,São Paulo
+413,2025-06-15 00:27:43,Blusa de Seda,Blusas,4,87.7,350.8,Pouso Alegre
+414,2025-09-01 13:11:41,Vestido de Verão,Vestidos,2,180.08,360.16,Itajubá
+415,2025-09-01 12:31:44,Blusa de Seda,Blusas,3,84.05,252.15,São Paulo
+416,2025-07-04 04:38:34,Camisa Social,Camisas,2,111.67,223.34,Rio de Janeiro
+417,2025-09-01 15:32:29,Calça Jeans Slim,Calças,3,140.88,422.64,São Paulo
+418,2025-08-27 09:41:58,Shorts de Linho,Shorts,1,75.59,75.59,São Paulo
+419,2025-08-23 22:50:12,Calça de Moletom,Calças,2,148.33,296.66,São Paulo
+420,2025-07-30 09:10:17,Sandália de Salto,Calçados,2,194.4,388.8,Itajubá
+421,2025-06-20 11:55:29,Cinto de Couro,Acessórios,1,51.98,51.98,São Paulo
+422,2025-08-01 07:39:12,Jaqueta de Couro Sintético,Casacos,3,244.18,732.54,Rio de Janeiro
+423,2025-09-01 01:12:27,Sandália de Salto,Calçados,4,190.45,761.8,Rio de Janeiro
+424,2025-08-23 12:45:28,Camisa Social,Camisas,2,112.91,225.82,São Paulo
+425,2025-07-10 13:28:54,Blusa de Seda,Blusas,3,84.51,253.53,São Paulo
+426,2025-07-04 15:48:19,Vestido Longo de Festa,Vestidos,3,202.41,607.23,São Paulo
+427,2025-07-28 01:56:04,Calça Jeans Slim,Calças,5,138.34,691.7,Pouso Alegre
+428,2025-07-15 04:05:38,Shorts de Linho,Shorts,2,77.23,154.46,Rio de Janeiro
+429,2025-08-07 07:22:03,Bolsa Tiracolo,Acessórios,5,48.02,240.1,Rio de Janeiro
+430,2025-09-02 00:25:58,Tênis Branco Casual,Calçados,4,195.17,780.68,Pouso Alegre
+431,2025-06-26 00:40:39,Jaqueta de Couro Sintético,Casacos,5,253.09,1265.45,Pouso Alegre
+432,2025-06-25 01:12:53,Tênis Branco Casual,Calçados,5,165.9,829.5,São Paulo
+433,2025-08-29 19:18:24,Jaqueta de Couro Sintético,Casacos,1,245.67,245.67,Pouso Alegre
+434,2025-07-08 23:51:48,Jaqueta de Couro Sintético,Casacos,2,228.6,457.2,Pouso Alegre
+435,2025-08-04 12:42:00,Saia Midi,Saias,1,96.38,96.38,Itajubá
+436,2025-08-03 17:31:24,Jaqueta de Couro Sintético,Casacos,3,227.91,683.73,Itajubá
+437,2025-07-02 18:27:25,Sandália de Salto,Calçados,5,164.81,824.05,Itajubá
+438,2025-06-15 04:59:43,Bolsa Tiracolo,Acessórios,4,53.71,214.84,Itajubá
+439,2025-07-01 05:58:28,Cinto de Couro,Acessórios,3,48.55,145.65,Rio de Janeiro
+440,2025-08-26 13:48:38,Vestido Longo de Festa,Vestidos,1,203.17,203.17,Pouso Alegre
+441,2025-09-05 03:05:19,Sandália de Salto,Calçados,3,173.63,520.89,Itajubá
+442,2025-07-25 19:54:49,Bolsa Tiracolo,Acessórios,4,45.65,182.6,Itajubá
+443,2025-06-08 13:31:28,Jaqueta de Couro Sintético,Casacos,1,238.52,238.52,São Paulo
+444,2025-07-22 07:30:31,Camisa Social,Camisas,5,106.1,530.5,Rio de Janeiro
+445,2025-07-02 01:31:37,Bolsa Tiracolo,Acessórios,4,48.82,195.28,Pouso Alegre
+446,2025-06-11 10:30:55,Tênis Branco Casual,Calçados,2,170.52,341.04,Itajubá
+447,2025-09-03 09:02:40,Bolsa Tiracolo,Acessórios,2,54.63,109.26,São Paulo
+448,2025-06-17 02:58:04,Saia Midi,Saias,1,83.04,83.04,Pouso Alegre
+449,2025-06-09 07:46:30,Calça Jeans Slim,Calças,2,154.29,308.58,Itajubá
+450,2025-07-14 08:57:57,Bolsa Tiracolo,Acessórios,2,48.62,97.24,São Paulo
+451,2025-07-29 17:01:20,Calça Jeans Slim,Calças,1,139.89,139.89,São Paulo
+452,2025-08-22 15:27:47,Vestido Longo de Festa,Vestidos,4,201.04,804.16,São Paulo
+453,2025-08-09 02:45:11,Jaqueta de Couro Sintético,Casacos,4,260.69,1042.76,Rio de Janeiro
+454,2025-08-07 06:22:49,Shorts de Linho,Shorts,2,71.28,142.56,Itajubá
+455,2025-06-22 09:49:41,Vestido Longo de Festa,Vestidos,3,203.84,611.52,São Paulo
+456,2025-08-10 04:57:46,Camisa Social,Camisas,5,100.01,500.05,São Paulo
+457,2025-07-14 21:50:17,Sandália de Salto,Calçados,1,170.24,170.24,São Paulo
+458,2025-07-16 18:29:16,Saia Midi,Saias,3,82.99,248.97,São Paulo
+459,2025-06-17 21:42:40,Saia Midi,Saias,3,87.41,262.23,Itajubá
+460,2025-07-25 14:17:54,Blusa de Seda,Blusas,1,80.06,80.06,Pouso Alegre
+461,2025-06-10 23:38:36,Calça de Moletom,Calças,4,137.33,549.32,Itajubá
+462,2025-07-05 21:25:37,Tênis Branco Casual,Calçados,4,193.95,775.8,São Paulo
+463,2025-07-22 17:55:36,Blusa de Seda,Blusas,3,73.84,221.52,São Paulo
+464,2025-08-09 07:01:01,Vestido Longo de Festa,Vestidos,3,181.06,543.18,São Paulo
+465,2025-08-29 06:46:06,Vestido de Verão,Vestidos,1,180.25,180.25,Rio de Janeiro
+466,2025-07-24 23:34:28,Calça Jeans Slim,Calças,3,151.45,454.35,São Paulo
+467,2025-06-09 23:39:53,Sandália de Salto,Calçados,4,177.26,709.04,Rio de Janeiro
+468,2025-08-13 09:57:40,Tênis Branco Casual,Calçados,4,184.34,737.36,Itajubá
+469,2025-06-10 05:35:20,Bolsa Tiracolo,Acessórios,3,49.66,148.98,Rio de Janeiro
+470,2025-08-10 05:59:44,Saia Midi,Saias,2,98.47,196.94,Rio de Janeiro
+471,2025-08-02 03:32:19,Vestido Longo de Festa,Vestidos,1,196.59,196.59,Rio de Janeiro
+472,2025-08-01 01:10:55,Bolsa Tiracolo,Acessórios,4,51.63,206.52,Itajubá
+473,2025-06-30 12:46:49,Tênis Branco Casual,Calçados,1,189.78,189.78,Rio de Janeiro
+474,2025-08-11 18:47:40,Bolsa Tiracolo,Acessórios,1,54.01,54.01,Rio de Janeiro
+475,2025-08-27 19:57:34,Sandália de Salto,Calçados,5,162.47,812.35,São Paulo
+476,2025-06-15 21:16:05,Calça de Moletom,Calças,2,163.31,326.62,Itajubá
+477,2025-06-08 04:17:32,Saia Midi,Saias,3,84.46,253.38,Itajubá
+478,2025-07-19 03:21:43,Sandália de Salto,Calçados,5,164.54,822.7,Rio de Janeiro
+479,2025-07-16 01:54:15,Calça de Moletom,Calças,4,158.29,633.16,São Paulo
+480,2025-07-30 11:15:29,Camisa Social,Camisas,4,105.42,421.68,Pouso Alegre
+481,2025-08-11 22:13:53,Calça de Moletom,Calças,4,155.84,623.36,Rio de Janeiro
+482,2025-08-24 20:02:52,Tênis Branco Casual,Calçados,5,171.72,858.6,Itajubá
+483,2025-07-11 00:44:37,Jaqueta de Couro Sintético,Casacos,2,242.88,485.76,Itajubá
+484,2025-08-31 01:14:06,Blusa de Seda,Blusas,5,82.25,411.25,Pouso Alegre
+485,2025-09-03 18:14:54,Cinto de Couro,Acessórios,4,50.7,202.8,Itajubá
+486,2025-06-08 13:30:48,Calça Jeans Slim,Calças,2,148.48,296.96,Itajubá
+487,2025-07-30 13:11:34,Saia Midi,Saias,4,83.75,335.0,São Paulo
+488,2025-06-22 05:46:33,Vestido de Verão,Vestidos,1,189.45,189.45,Itajubá
+489,2025-07-03 23:51:19,Vestido Longo de Festa,Vestidos,3,199.1,597.3,Rio de Janeiro
+490,2025-06-20 08:06:59,Vestido de Verão,Vestidos,3,204.53,613.59,Rio de Janeiro
+491,2025-08-22 04:07:56,Blusa de Seda,Blusas,4,72.2,288.8,Pouso Alegre
+492,2025-07-10 22:32:35,Camisa Social,Camisas,5,120.33,601.65,Pouso Alegre
+493,2025-07-15 10:52:56,Cinto de Couro,Acessórios,5,53.99,269.95,São Paulo
+494,2025-08-22 12:40:04,Tênis Branco Casual,Calçados,2,178.89,357.78,Rio de Janeiro
+495,2025-07-03 20:14:53,Saia Midi,Saias,3,94.25,282.75,Itajubá
+496,2025-08-19 07:10:21,Tênis Branco Casual,Calçados,5,191.01,955.05,São Paulo
+497,2025-06-23 17:55:59,Calça de Moletom,Calças,2,136.61,273.22,Rio de Janeiro
+498,2025-07-08 19:07:04,Saia Midi,Saias,5,92.32,461.6,Pouso Alegre
+499,2025-08-31 04:25:50,Bolsa Tiracolo,Acessórios,1,52.26,52.26,Itajubá
+500,2025-07-07 14:35:06,Cinto de Couro,Acessórios,3,46.33,138.99,Rio de Janeiro
+501,2025-07-01 08:07:26,Bolsa Tiracolo,Acessórios,1,52.67,52.67,Rio de Janeiro
+502,2025-06-30 12:02:22,Tênis Branco Casual,Calçados,3,190.96,572.88,Rio de Janeiro
+503,2025-08-13 14:51:40,Saia Midi,Saias,4,94.36,377.44,Pouso Alegre
+504,2025-07-01 05:28:29,Bolsa Tiracolo,Acessórios,5,46.89,234.45,Pouso Alegre
+505,2025-07-31 20:58:44,Sandália de Salto,Calçados,1,174.95,174.95,São Paulo
+506,2025-08-26 07:01:12,Blusa de Seda,Blusas,2,82.3,164.6,Itajubá
+507,2025-06-12 18:51:41,Vestido Longo de Festa,Vestidos,2,182.99,365.98,Pouso Alegre
+508,2025-08-29 00:21:46,Cinto de Couro,Acessórios,2,45.7,91.4,São Paulo
+509,2025-07-19 12:31:36,Tênis Branco Casual,Calçados,5,173.36,866.8,Itajubá
+510,2025-08-19 15:06:45,Bolsa Tiracolo,Acessórios,1,46.29,46.29,São Paulo
+511,2025-07-14 19:08:56,Calça Jeans Slim,Calças,4,158.61,634.44,Pouso Alegre
+512,2025-08-12 04:51:51,Bolsa Tiracolo,Acessórios,1,48.04,48.04,Itajubá
+513,2025-08-15 16:25:46,Shorts de Linho,Shorts,4,80.82,323.28,Pouso Alegre
+514,2025-06-14 00:15:16,Vestido de Verão,Vestidos,5,208.9,1044.5,Pouso Alegre
+515,2025-08-19 14:58:29,Calça Jeans Slim,Calças,2,140.14,280.28,Pouso Alegre
+516,2025-09-04 16:06:50,Camisa Social,Camisas,2,117.59,235.18,Itajubá
+517,2025-06-12 00:26:43,Shorts de Linho,Shorts,2,77.49,154.98,São Paulo
+518,2025-08-19 06:21:25,Jaqueta de Couro Sintético,Casacos,2,243.78,487.56,Itajubá
+519,2025-08-10 09:01:21,Sandália de Salto,Calçados,3,173.38,520.14,Pouso Alegre
+520,2025-07-02 12:35:28,Sandália de Salto,Calçados,1,195.31,195.31,Pouso Alegre
+521,2025-08-03 09:51:24,Blusa de Seda,Blusas,5,79.15,395.75,Rio de Janeiro
+522,2025-07-03 20:38:16,Bolsa Tiracolo,Acessórios,2,52.25,104.5,Itajubá
+523,2025-06-09 19:30:48,Sandália de Salto,Calçados,4,183.51,734.04,Itajubá
+524,2025-09-02 03:55:54,Saia Midi,Saias,5,91.93,459.65,Rio de Janeiro
+525,2025-08-08 15:52:16,Vestido Longo de Festa,Vestidos,5,197.93,989.65,Rio de Janeiro
+526,2025-08-05 10:24:15,Vestido Longo de Festa,Vestidos,1,187.96,187.96,Pouso Alegre
+527,2025-07-09 10:05:29,Sandália de Salto,Calçados,4,172.3,689.2,Itajubá
+528,2025-07-25 16:32:34,Shorts de Linho,Shorts,4,76.87,307.48,Rio de Janeiro
+529,2025-08-02 02:07:14,Vestido Longo de Festa,Vestidos,5,188.49,942.45,Rio de Janeiro
+530,2025-08-28 16:33:24,Sandália de Salto,Calçados,3,179.69,539.07,Rio de Janeiro
+531,2025-08-01 00:30:08,Shorts de Linho,Shorts,3,75.36,226.08,São Paulo
+532,2025-08-19 22:55:39,Sandália de Salto,Calçados,4,187.76,751.04,São Paulo
+533,2025-09-04 18:11:08,Calça de Moletom,Calças,3,159.65,478.95,Itajubá
+534,2025-06-11 06:23:17,Vestido Longo de Festa,Vestidos,5,180.89,904.45,Pouso Alegre
+535,2025-08-20 06:34:37,Shorts de Linho,Shorts,3,70.56,211.68,Pouso Alegre
+536,2025-06-29 10:59:52,Saia Midi,Saias,5,90.95,454.75,Pouso Alegre
+537,2025-08-05 23:00:36,Saia Midi,Saias,4,85.25,341.0,Rio de Janeiro
+538,2025-08-15 12:24:59,Camisa Social,Camisas,5,115.84,579.2,Rio de Janeiro
+539,2025-08-04 00:09:50,Tênis Branco Casual,Calçados,4,167.34,669.36,São Paulo
+540,2025-08-30 18:49:54,Blusa de Seda,Blusas,4,87.12,348.48,São Paulo
+541,2025-07-15 23:27:04,Sandália de Salto,Calçados,3,171.23,513.69,Itajubá
+542,2025-07-24 15:42:59,Jaqueta de Couro Sintético,Casacos,1,240.44,240.44,Itajubá
+543,2025-08-25 13:40:17,Calça Jeans Slim,Calças,1,156.39,156.39,Itajubá
+544,2025-09-01 09:54:58,Sandália de Salto,Calçados,3,172.03,516.09,Itajubá
+545,2025-07-29 09:38:53,Jaqueta de Couro Sintético,Casacos,1,254.52,254.52,Pouso Alegre
+546,2025-06-19 11:10:58,Saia Midi,Saias,2,97.23,194.46,Pouso Alegre
+547,2025-08-15 04:21:55,Vestido de Verão,Vestidos,3,188.53,565.59,Pouso Alegre
+548,2025-08-02 10:10:11,Camisa Social,Camisas,4,105.49,421.96,Itajubá
+549,2025-08-02 21:03:36,Cinto de Couro,Acessórios,4,52.99,211.96,Rio de Janeiro
+550,2025-08-25 21:52:56,Jaqueta de Couro Sintético,Casacos,3,270.47,811.41,São Paulo
+551,2025-09-04 10:39:21,Calça de Moletom,Calças,1,163.31,163.31,São Paulo
+552,2025-07-05 11:06:34,Blusa de Seda,Blusas,5,87.37,436.85,Pouso Alegre
+553,2025-08-14 14:57:28,Bolsa Tiracolo,Acessórios,4,52.53,210.12,Itajubá
+554,2025-07-01 05:58:39,Jaqueta de Couro Sintético,Casacos,3,256.8,770.4,São Paulo
+555,2025-07-06 00:39:19,Calça de Moletom,Calças,5,161.83,809.15,Itajubá
+556,2025-09-02 13:54:42,Shorts de Linho,Shorts,4,81.05,324.2,São Paulo
+557,2025-06-13 04:56:02,Camisa Social,Camisas,1,108.5,108.5,Pouso Alegre
+558,2025-06-15 18:35:09,Vestido Longo de Festa,Vestidos,1,201.55,201.55,Rio de Janeiro
+559,2025-07-07 00:51:58,Sandália de Salto,Calçados,4,168.16,672.64,São Paulo
+560,2025-08-01 11:34:06,Calça Jeans Slim,Calças,4,140.68,562.72,Itajubá
+561,2025-06-19 09:12:19,Tênis Branco Casual,Calçados,1,170.34,170.34,São Paulo
+562,2025-06-20 10:35:17,Jaqueta de Couro Sintético,Casacos,1,233.9,233.9,Pouso Alegre
+563,2025-06-08 11:21:24,Vestido de Verão,Vestidos,4,209.87,839.48,Itajubá
+564,2025-08-09 10:52:20,Bolsa Tiracolo,Acessórios,4,51.39,205.56,Itajubá
+565,2025-07-08 11:13:28,Vestido de Verão,Vestidos,3,185.38,556.14,Itajubá
+566,2025-08-05 01:48:35,Calça de Moletom,Calças,5,148.06,740.3,Pouso Alegre
+567,2025-06-28 02:27:02,Calça de Moletom,Calças,4,158.23,632.92,Itajubá
+568,2025-07-06 12:52:48,Sandália de Salto,Calçados,2,162.36,324.72,Itajubá
+569,2025-09-03 05:43:46,Calça de Moletom,Calças,4,140.73,562.92,Pouso Alegre
+570,2025-06-22 22:30:22,Blusa de Seda,Blusas,4,86.22,344.88,Itajubá
+571,2025-08-31 23:51:56,Calça de Moletom,Calças,3,140.12,420.36,Rio de Janeiro
+572,2025-07-03 12:01:01,Calça de Moletom,Calças,5,154.91,774.55,São Paulo
+573,2025-08-11 06:21:08,Jaqueta de Couro Sintético,Casacos,5,249.85,1249.25,Pouso Alegre
+574,2025-09-05 14:31:27,Blusa de Seda,Blusas,5,83.76,418.8,Pouso Alegre
+575,2025-06-10 23:56:04,Camisa Social,Camisas,5,100.66,503.3,Itajubá
+576,2025-08-21 10:52:36,Sandália de Salto,Calçados,5,166.42,832.1,Pouso Alegre
+577,2025-06-27 14:09:38,Cinto de Couro,Acessórios,1,46.29,46.29,Itajubá
+578,2025-08-13 23:03:35,Shorts de Linho,Shorts,4,71.44,285.76,Itajubá
+579,2025-06-14 20:47:07,Calça de Moletom,Calças,4,157.63,630.52,Pouso Alegre
+580,2025-07-05 16:58:42,Camisa Social,Camisas,2,106.82,213.64,São Paulo
+581,2025-08-25 10:06:27,Saia Midi,Saias,3,94.4,283.2,Rio de Janeiro
+582,2025-08-15 02:08:40,Shorts de Linho,Shorts,5,72.28,361.4,Itajubá
+583,2025-08-27 09:44:08,Jaqueta de Couro Sintético,Casacos,1,260.68,260.68,Rio de Janeiro
+584,2025-08-02 11:45:06,Tênis Branco Casual,Calçados,5,180.14,900.7,São Paulo
+585,2025-06-25 09:58:28,Shorts de Linho,Shorts,5,79.28,396.4,Itajubá
+586,2025-09-04 23:42:47,Cinto de Couro,Acessórios,5,52.31,261.55,São Paulo
+587,2025-08-28 13:04:49,Tênis Branco Casual,Calçados,1,166.65,166.65,Itajubá
+588,2025-08-12 07:31:31,Saia Midi,Saias,3,84.33,252.99,Rio de Janeiro
+589,2025-06-08 15:55:23,Blusa de Seda,Blusas,2,74.77,149.54,São Paulo
+590,2025-06-30 03:58:56,Cinto de Couro,Acessórios,3,53.96,161.88,Pouso Alegre
+591,2025-06-11 19:01:35,Saia Midi,Saias,2,86.36,172.72,Itajubá
+592,2025-09-03 11:28:43,Vestido de Verão,Vestidos,3,210.99,632.97,Itajubá
+593,2025-07-26 08:34:37,Jaqueta de Couro Sintético,Casacos,2,251.1,502.2,Pouso Alegre
+594,2025-07-30 11:35:02,Camisa Social,Camisas,2,107.95,215.9,Rio de Janeiro
+595,2025-06-17 11:31:12,Vestido Longo de Festa,Vestidos,5,182.08,910.4,Rio de Janeiro
+596,2025-07-19 22:30:06,Vestido de Verão,Vestidos,4,202.79,811.16,São Paulo
+597,2025-06-14 12:52:43,Calça de Moletom,Calças,1,164.28,164.28,Itajubá
+598,2025-08-19 04:53:32,Shorts de Linho,Shorts,4,71.28,285.12,Rio de Janeiro
+599,2025-06-25 16:11:35,Vestido de Verão,Vestidos,2,207.01,414.02,Rio de Janeiro
+600,2025-07-14 11:22:24,Bolsa Tiracolo,Acessórios,5,49.06,245.3,Itajubá
+601,2025-08-28 07:04:49,Vestido Longo de Festa,Vestidos,4,192.61,770.44,Pouso Alegre
+602,2025-07-18 10:07:33,Shorts de Linho,Shorts,4,77.31,309.24,São Paulo
+603,2025-07-28 05:20:28,Cinto de Couro,Acessórios,2,54.86,109.72,Pouso Alegre
+604,2025-08-10 07:48:39,Vestido de Verão,Vestidos,1,212.69,212.69,Itajubá
+605,2025-08-14 01:38:36,Calça de Moletom,Calças,3,140.78,422.34,Itajubá
+606,2025-06-21 11:27:20,Vestido Longo de Festa,Vestidos,5,184.52,922.6,São Paulo
+607,2025-06-28 07:52:11,Shorts de Linho,Shorts,4,74.96,299.84,São Paulo
+608,2025-07-16 08:43:27,Bolsa Tiracolo,Acessórios,3,51.27,153.81,São Paulo
+609,2025-08-17 03:44:59,Bolsa Tiracolo,Acessórios,3,50.2,150.6,São Paulo
+610,2025-08-16 19:04:15,Shorts de Linho,Shorts,5,69.85,349.25,Pouso Alegre
+611,2025-09-04 19:46:15,Saia Midi,Saias,5,81.72,408.6,São Paulo
+612,2025-06-26 02:49:47,Tênis Branco Casual,Calçados,4,174.68,698.72,Itajubá
+613,2025-06-27 13:52:21,Sandália de Salto,Calçados,4,185.47,741.88,Rio de Janeiro
+614,2025-07-27 11:46:13,Cinto de Couro,Acessórios,3,48.33,144.99,Rio de Janeiro
+615,2025-08-21 17:39:39,Tênis Branco Casual,Calçados,4,173.33,693.32,Rio de Janeiro
+616,2025-06-08 21:02:05,Saia Midi,Saias,1,97.13,97.13,Pouso Alegre
+617,2025-07-02 07:11:48,Sandália de Salto,Calçados,4,162.09,648.36,Rio de Janeiro
+618,2025-08-24 07:16:12,Bolsa Tiracolo,Acessórios,3,54.49,163.47,Rio de Janeiro
+619,2025-09-04 04:55:06,Camisa Social,Camisas,1,120.48,120.48,Pouso Alegre
+620,2025-07-19 02:21:33,Shorts de Linho,Shorts,1,72.57,72.57,São Paulo
+621,2025-07-07 15:21:00,Sandália de Salto,Calçados,1,174.49,174.49,Itajubá
+622,2025-07-20 14:59:46,Cinto de Couro,Acessórios,1,50.66,50.66,São Paulo
+623,2025-07-12 08:40:06,Calça de Moletom,Calças,3,152.23,456.69,Itajubá
+624,2025-08-15 02:49:03,Bolsa Tiracolo,Acessórios,1,54.06,54.06,São Paulo
+625,2025-07-04 17:12:18,Saia Midi,Saias,3,93.25,279.75,Rio de Janeiro
+626,2025-06-28 21:18:50,Camisa Social,Camisas,4,118.35,473.4,Rio de Janeiro
+627,2025-06-28 22:01:34,Shorts de Linho,Shorts,5,79.67,398.35,Itajubá
+628,2025-07-16 12:50:02,Tênis Branco Casual,Calçados,4,172.85,691.4,Rio de Janeiro
+629,2025-08-01 15:27:35,Jaqueta de Couro Sintético,Casacos,5,252.25,1261.25,São Paulo
+630,2025-07-12 09:31:53,Blusa de Seda,Blusas,5,84.02,420.1,Rio de Janeiro
+631,2025-07-24 02:06:35,Vestido de Verão,Vestidos,3,203.3,609.9,Rio de Janeiro
+632,2025-06-10 06:49:29,Jaqueta de Couro Sintético,Casacos,2,229.35,458.7,Itajubá
+633,2025-09-05 02:10:09,Jaqueta de Couro Sintético,Casacos,1,226.33,226.33,São Paulo
+634,2025-06-27 18:11:06,Saia Midi,Saias,5,93.45,467.25,Pouso Alegre
+635,2025-06-13 03:31:32,Bolsa Tiracolo,Acessórios,2,54.73,109.46,São Paulo
+636,2025-07-28 03:41:47,Tênis Branco Casual,Calçados,3,170.3,510.9,São Paulo
+637,2025-08-12 17:33:14,Calça de Moletom,Calças,4,135.56,542.24,Pouso Alegre
+638,2025-09-01 12:22:43,Shorts de Linho,Shorts,5,69.96,349.8,São Paulo
+639,2025-06-22 01:04:41,Tênis Branco Casual,Calçados,4,196.14,784.56,São Paulo
+640,2025-06-25 05:02:17,Blusa de Seda,Blusas,1,84.3,84.3,Itajubá
+641,2025-07-20 08:40:47,Tênis Branco Casual,Calçados,2,195.37,390.74,Itajubá
+642,2025-07-23 15:22:55,Camisa Social,Camisas,4,119.24,476.96,Pouso Alegre
+643,2025-06-19 19:22:39,Sandália de Salto,Calçados,3,190.95,572.85,Pouso Alegre
+644,2025-09-01 04:50:59,Vestido de Verão,Vestidos,5,182.5,912.5,Rio de Janeiro
+645,2025-07-06 17:24:31,Saia Midi,Saias,1,89.4,89.4,Rio de Janeiro
+646,2025-07-26 03:51:35,Vestido de Verão,Vestidos,5,218.66,1093.3,Rio de Janeiro
+647,2025-07-10 21:26:52,Sandália de Salto,Calçados,3,194.11,582.33,São Paulo
+648,2025-08-02 23:53:33,Cinto de Couro,Acessórios,3,48.62,145.86,Pouso Alegre
+649,2025-08-28 05:44:56,Tênis Branco Casual,Calçados,3,190.63,571.89,Pouso Alegre
+650,2025-08-06 15:47:18,Tênis Branco Casual,Calçados,5,183.82,919.1,Pouso Alegre
+651,2025-08-13 20:54:01,Jaqueta de Couro Sintético,Casacos,4,272.23,1088.92,São Paulo
+652,2025-08-21 15:46:57,Calça Jeans Slim,Calças,2,139.51,279.02,Rio de Janeiro
+653,2025-07-24 16:00:47,Jaqueta de Couro Sintético,Casacos,3,272.43,817.29,Pouso Alegre
+654,2025-07-20 15:10:43,Blusa de Seda,Blusas,3,81.61,244.83,São Paulo
+655,2025-06-26 09:06:58,Blusa de Seda,Blusas,3,83.52,250.56,Itajubá
+656,2025-07-03 20:17:09,Camisa Social,Camisas,1,111.51,111.51,Pouso Alegre
+657,2025-07-13 06:37:49,Calça de Moletom,Calças,4,157.35,629.4,Rio de Janeiro
+658,2025-08-07 00:41:38,Calça Jeans Slim,Calças,4,142.05,568.2,Rio de Janeiro
+659,2025-08-10 12:48:40,Shorts de Linho,Shorts,3,69.64,208.92,Pouso Alegre
+660,2025-07-07 15:15:53,Sandália de Salto,Calçados,2,172.06,344.12,Itajubá
+661,2025-08-09 14:39:58,Vestido de Verão,Vestidos,1,195.5,195.5,Rio de Janeiro
+662,2025-06-27 09:30:52,Camisa Social,Camisas,4,112.18,448.72,Rio de Janeiro
+663,2025-08-09 23:40:20,Calça Jeans Slim,Calças,4,164.67,658.68,Itajubá
+664,2025-08-19 13:43:54,Camisa Social,Camisas,1,101.75,101.75,Pouso Alegre
+665,2025-08-26 16:19:25,Vestido de Verão,Vestidos,5,210.72,1053.6,Rio de Janeiro
+666,2025-08-24 07:24:16,Jaqueta de Couro Sintético,Casacos,2,237.86,475.72,Rio de Janeiro
+667,2025-07-05 05:00:04,Blusa de Seda,Blusas,1,83.18,83.18,São Paulo
+668,2025-07-11 19:18:53,Saia Midi,Saias,4,84.6,338.4,Itajubá
+669,2025-08-18 00:50:26,Bolsa Tiracolo,Acessórios,3,51.72,155.16,Pouso Alegre
+670,2025-07-30 09:59:12,Sandália de Salto,Calçados,3,170.91,512.73,Itajubá
+671,2025-08-23 05:35:41,Calça de Moletom,Calças,1,158.82,158.82,Itajubá
+672,2025-06-30 21:02:26,Shorts de Linho,Shorts,5,82.22,411.1,Pouso Alegre
+673,2025-08-20 21:11:59,Sandália de Salto,Calçados,3,183.2,549.6,Pouso Alegre
+674,2025-08-26 12:44:54,Calça de Moletom,Calças,1,158.38,158.38,São Paulo
+675,2025-06-23 11:06:55,Saia Midi,Saias,4,91.98,367.92,São Paulo
+676,2025-06-25 05:20:43,Sandália de Salto,Calçados,2,192.96,385.92,Rio de Janeiro
+677,2025-07-23 04:15:43,Sandália de Salto,Calçados,5,168.88,844.4,São Paulo
+678,2025-08-09 07:57:06,Tênis Branco Casual,Calçados,5,170.23,851.15,Pouso Alegre
+679,2025-08-09 07:27:46,Blusa de Seda,Blusas,3,73.78,221.34,Itajubá
+680,2025-07-23 05:02:15,Saia Midi,Saias,4,95.75,383.0,Itajubá
+681,2025-09-01 01:13:47,Cinto de Couro,Acessórios,2,49.78,99.56,Rio de Janeiro
+682,2025-08-01 08:52:31,Sandália de Salto,Calçados,5,168.22,841.1,Itajubá
+683,2025-08-21 11:18:41,Blusa de Seda,Blusas,1,85.42,85.42,Rio de Janeiro
+684,2025-06-14 17:31:29,Saia Midi,Saias,5,85.65,428.25,Itajubá
+685,2025-07-28 12:36:15,Calça de Moletom,Calças,1,150.9,150.9,São Paulo
+686,2025-06-15 06:16:42,Camisa Social,Camisas,5,110.42,552.1,Itajubá
+687,2025-08-18 23:35:06,Cinto de Couro,Acessórios,3,48.69,146.07,Itajubá
+688,2025-06-22 11:44:07,Cinto de Couro,Acessórios,2,47.17,94.34,São Paulo
+689,2025-08-17 16:11:48,Saia Midi,Saias,3,93.37,280.11,Pouso Alegre
+690,2025-08-21 01:30:00,Blusa de Seda,Blusas,2,78.11,156.22,Rio de Janeiro
+691,2025-08-10 03:00:50,Shorts de Linho,Shorts,3,75.32,225.96,Itajubá
+692,2025-07-10 18:07:55,Vestido Longo de Festa,Vestidos,5,215.94,1079.7,Rio de Janeiro
+693,2025-06-11 00:00:21,Camisa Social,Camisas,5,113.32,566.6,São Paulo
+694,2025-06-24 18:30:16,Calça de Moletom,Calças,3,140.57,421.71,Pouso Alegre
+695,2025-08-09 21:33:00,Vestido de Verão,Vestidos,5,215.87,1079.35,São Paulo
+696,2025-08-27 09:51:58,Jaqueta de Couro Sintético,Casacos,4,226.64,906.56,São Paulo
+697,2025-08-17 04:49:49,Bolsa Tiracolo,Acessórios,4,45.12,180.48,Pouso Alegre
+698,2025-07-05 00:38:35,Calça de Moletom,Calças,3,152.19,456.57,Pouso Alegre
+699,2025-07-10 03:21:12,Cinto de Couro,Acessórios,4,51.05,204.2,Pouso Alegre
+700,2025-07-06 05:06:30,Blusa de Seda,Blusas,2,75.45,150.9,Pouso Alegre
+701,2025-07-01 03:23:11,Calça Jeans Slim,Calças,1,150.89,150.89,Rio de Janeiro
+702,2025-07-02 07:10:56,Tênis Branco Casual,Calçados,3,178.11,534.33,Pouso Alegre
+703,2025-07-25 04:23:08,Saia Midi,Saias,2,81.13,162.26,Itajubá
+704,2025-08-31 10:57:46,Calça Jeans Slim,Calças,4,148.46,593.84,São Paulo
+705,2025-07-27 14:40:29,Bolsa Tiracolo,Acessórios,3,47.75,143.25,Pouso Alegre
+706,2025-06-28 03:36:36,Calça Jeans Slim,Calças,1,155.78,155.78,Pouso Alegre
+707,2025-08-30 00:29:30,Tênis Branco Casual,Calçados,3,183.17,549.51,Pouso Alegre
+708,2025-06-22 23:48:54,Bolsa Tiracolo,Acessórios,3,51.76,155.28,Rio de Janeiro
+709,2025-08-25 05:51:13,Bolsa Tiracolo,Acessórios,5,52.11,260.55,São Paulo
+710,2025-08-21 11:07:41,Tênis Branco Casual,Calçados,1,180.52,180.52,Pouso Alegre
+711,2025-06-20 08:55:26,Blusa de Seda,Blusas,1,72.68,72.68,Itajubá
+712,2025-08-07 08:31:26,Jaqueta de Couro Sintético,Casacos,1,271.9,271.9,São Paulo
+713,2025-06-14 15:47:50,Calça Jeans Slim,Calças,5,143.53,717.65,Pouso Alegre
+714,2025-06-21 03:44:51,Sandália de Salto,Calçados,5,186.57,932.85,Pouso Alegre
+715,2025-07-21 04:12:12,Camisa Social,Camisas,4,99.47,397.88,Itajubá
+716,2025-07-30 14:26:01,Jaqueta de Couro Sintético,Casacos,5,235.21,1176.05,Pouso Alegre
+717,2025-08-14 23:14:32,Tênis Branco Casual,Calçados,2,189.93,379.86,Rio de Janeiro
+718,2025-06-07 21:12:46,Saia Midi,Saias,5,86.31,431.55,São Paulo
+719,2025-08-30 09:08:56,Vestido Longo de Festa,Vestidos,4,187.64,750.56,Pouso Alegre
+720,2025-07-26 23:41:39,Calça de Moletom,Calças,4,163.12,652.48,Pouso Alegre
+721,2025-07-30 09:16:56,Tênis Branco Casual,Calçados,1,196.52,196.52,São Paulo
+722,2025-09-02 00:27:16,Blusa de Seda,Blusas,1,86.71,86.71,Itajubá
+723,2025-07-20 09:19:24,Calça de Moletom,Calças,2,141.65,283.3,Itajubá
+724,2025-07-14 06:50:21,Blusa de Seda,Blusas,5,76.62,383.1,Pouso Alegre
+725,2025-06-12 14:37:14,Jaqueta de Couro Sintético,Casacos,3,264.51,793.53,São Paulo
+726,2025-07-11 00:36:18,Calça Jeans Slim,Calças,3,145.85,437.55,São Paulo
+727,2025-06-16 17:39:54,Cinto de Couro,Acessórios,1,47.72,47.72,São Paulo
+728,2025-06-21 10:01:50,Blusa de Seda,Blusas,3,77.16,231.48,Itajubá
+729,2025-06-15 05:56:27,Tênis Branco Casual,Calçados,5,180.59,902.95,Pouso Alegre
+730,2025-06-24 03:38:52,Sandália de Salto,Calçados,4,171.66,686.64,Itajubá
+731,2025-07-15 21:11:41,Calça de Moletom,Calças,2,152.89,305.78,São Paulo
+732,2025-06-10 14:33:08,Cinto de Couro,Acessórios,2,47.93,95.86,Rio de Janeiro
+733,2025-07-17 17:59:05,Calça de Moletom,Calças,1,142.91,142.91,Itajubá
+734,2025-06-25 13:49:17,Calça Jeans Slim,Calças,3,158.44,475.32,Itajubá
+735,2025-08-11 00:43:45,Camisa Social,Camisas,4,113.86,455.44,Rio de Janeiro
+736,2025-08-20 18:44:06,Vestido Longo de Festa,Vestidos,1,183.5,183.5,Rio de Janeiro
+737,2025-08-10 07:03:21,Saia Midi,Saias,3,85.49,256.47,Rio de Janeiro
+738,2025-07-18 04:57:02,Jaqueta de Couro Sintético,Casacos,1,232.33,232.33,Itajubá
+739,2025-08-25 02:12:31,Saia Midi,Saias,1,83.31,83.31,Itajubá
+740,2025-07-23 20:39:27,Sandália de Salto,Calçados,3,186.31,558.93,Itajubá
+741,2025-07-07 18:23:39,Camisa Social,Camisas,5,115.81,579.05,Rio de Janeiro
+742,2025-09-05 00:45:00,Jaqueta de Couro Sintético,Casacos,4,273.3,1093.2,Itajubá
+743,2025-06-18 19:28:02,Vestido Longo de Festa,Vestidos,5,198.13,990.65,Rio de Janeiro
+744,2025-08-08 15:30:31,Saia Midi,Saias,4,86.71,346.84,São Paulo
+745,2025-07-05 02:22:22,Blusa de Seda,Blusas,4,79.12,316.48,Rio de Janeiro
+746,2025-07-20 08:46:46,Saia Midi,Saias,3,92.96,278.88,Rio de Janeiro
+747,2025-08-31 08:04:59,Tênis Branco Casual,Calçados,2,185.9,371.8,Rio de Janeiro
+748,2025-08-20 04:49:50,Calça Jeans Slim,Calças,1,164.56,164.56,Rio de Janeiro
+749,2025-06-08 07:58:39,Calça de Moletom,Calças,5,151.71,758.55,Itajubá
+750,2025-08-23 06:14:10,Jaqueta de Couro Sintético,Casacos,2,231.57,463.14,São Paulo
+751,2025-06-18 06:40:54,Vestido de Verão,Vestidos,1,198.91,198.91,Itajubá
+752,2025-06-18 19:46:17,Tênis Branco Casual,Calçados,2,193.55,387.1,Rio de Janeiro
+753,2025-08-22 11:07:47,Tênis Branco Casual,Calçados,3,193.95,581.85,Itajubá
+754,2025-08-19 09:54:06,Vestido Longo de Festa,Vestidos,4,203.22,812.88,São Paulo
+755,2025-08-08 21:10:35,Sandália de Salto,Calçados,4,182.98,731.92,Rio de Janeiro
+756,2025-07-03 02:04:17,Shorts de Linho,Shorts,3,81.59,244.77,Itajubá
+757,2025-09-05 19:23:48,Tênis Branco Casual,Calçados,2,168.11,336.22,São Paulo
+758,2025-09-01 10:03:24,Vestido Longo de Festa,Vestidos,5,216.52,1082.6,Pouso Alegre
+759,2025-08-25 03:03:34,Vestido Longo de Festa,Vestidos,2,187.7,375.4,Pouso Alegre
+760,2025-07-12 20:26:56,Tênis Branco Casual,Calçados,5,188.27,941.35,Pouso Alegre
+761,2025-06-22 04:39:35,Tênis Branco Casual,Calçados,3,190.6,571.8,Pouso Alegre
+762,2025-07-24 08:46:07,Calça de Moletom,Calças,1,143.71,143.71,Pouso Alegre
+763,2025-07-28 15:57:40,Shorts de Linho,Shorts,1,71.4,71.4,São Paulo
+764,2025-08-16 23:14:06,Calça de Moletom,Calças,3,148.86,446.58,Rio de Janeiro
+765,2025-07-30 07:52:54,Cinto de Couro,Acessórios,4,50.64,202.56,São Paulo
+766,2025-08-15 12:51:16,Cinto de Couro,Acessórios,4,52.32,209.28,Itajubá
+767,2025-06-20 13:44:27,Blusa de Seda,Blusas,4,80.52,322.08,Itajubá
+768,2025-08-09 06:34:04,Tênis Branco Casual,Calçados,5,180.77,903.85,São Paulo
+769,2025-07-24 00:54:50,Tênis Branco Casual,Calçados,5,196.12,980.6,Itajubá
+770,2025-07-18 03:56:18,Bolsa Tiracolo,Acessórios,1,50.98,50.98,São Paulo
+771,2025-07-23 17:08:12,Calça Jeans Slim,Calças,4,136.33,545.32,Itajubá
+772,2025-06-21 05:24:31,Vestido de Verão,Vestidos,1,205.91,205.91,Itajubá
+773,2025-06-16 06:47:04,Calça de Moletom,Calças,2,152.26,304.52,Rio de Janeiro
+774,2025-06-19 19:28:02,Calça de Moletom,Calças,2,160.63,321.26,São Paulo
+775,2025-06-09 15:04:27,Shorts de Linho,Shorts,3,80.53,241.59,Itajubá
+776,2025-06-11 14:49:10,Blusa de Seda,Blusas,1,73.25,73.25,Pouso Alegre
+777,2025-07-28 23:33:28,Camisa Social,Camisas,1,110.66,110.66,Pouso Alegre
+778,2025-06-08 22:46:38,Vestido de Verão,Vestidos,4,193.21,772.84,Pouso Alegre
+779,2025-06-13 19:04:28,Shorts de Linho,Shorts,1,81.47,81.47,Itajubá
+780,2025-08-26 17:19:21,Bolsa Tiracolo,Acessórios,1,46.11,46.11,Pouso Alegre
+781,2025-07-10 22:35:34,Jaqueta de Couro Sintético,Casacos,2,245.11,490.22,São Paulo
+782,2025-08-31 09:15:20,Camisa Social,Camisas,3,105.51,316.53,Rio de Janeiro
+783,2025-08-18 13:24:12,Vestido Longo de Festa,Vestidos,2,214.72,429.44,Rio de Janeiro
+784,2025-06-18 02:03:44,Jaqueta de Couro Sintético,Casacos,3,273.26,819.78,Itajubá
+785,2025-08-20 16:41:56,Calça de Moletom,Calças,2,142.69,285.38,São Paulo
+786,2025-06-25 07:57:33,Calça de Moletom,Calças,3,135.5,406.5,Itajubá
+787,2025-06-20 19:11:53,Shorts de Linho,Shorts,3,68.59,205.77,Itajubá
+788,2025-08-09 20:08:22,Calça Jeans Slim,Calças,3,136.3,408.9,Rio de Janeiro
+789,2025-08-04 23:57:25,Shorts de Linho,Shorts,4,69.7,278.8,Itajubá
+790,2025-08-29 22:58:47,Tênis Branco Casual,Calçados,1,184.25,184.25,São Paulo
+791,2025-07-31 15:45:44,Tênis Branco Casual,Calçados,2,191.67,383.34,Pouso Alegre
+792,2025-07-17 09:25:59,Vestido de Verão,Vestidos,5,189.92,949.6,Rio de Janeiro
+793,2025-08-27 05:21:36,Calça Jeans Slim,Calças,4,139.37,557.48,Rio de Janeiro
+794,2025-08-27 13:27:31,Sandália de Salto,Calçados,1,197.82,197.82,São Paulo
+795,2025-08-16 01:29:57,Calça de Moletom,Calças,5,143.24,716.2,Itajubá
+796,2025-08-18 01:32:44,Sandália de Salto,Calçados,2,195.48,390.96,Pouso Alegre
+797,2025-08-26 21:22:36,Jaqueta de Couro Sintético,Casacos,5,259.05,1295.25,Rio de Janeiro
+798,2025-08-05 06:37:49,Sandália de Salto,Calçados,3,162.55,487.65,Itajubá
+799,2025-07-25 01:54:58,Vestido de Verão,Vestidos,4,198.0,792.0,Pouso Alegre
+800,2025-07-18 03:53:45,Calça Jeans Slim,Calças,4,146.05,584.2,Itajubá
+801,2025-07-18 18:07:48,Tênis Branco Casual,Calçados,5,190.13,950.65,Pouso Alegre
+802,2025-07-03 14:34:56,Cinto de Couro,Acessórios,5,47.28,236.4,São Paulo
+803,2025-07-11 13:20:08,Saia Midi,Saias,5,95.81,479.05,Itajubá
+804,2025-07-31 09:58:29,Saia Midi,Saias,5,95.72,478.6,Pouso Alegre
+805,2025-08-24 03:13:11,Bolsa Tiracolo,Acessórios,3,52.46,157.38,Itajubá
+806,2025-07-31 23:40:50,Camisa Social,Camisas,4,102.74,410.96,Itajubá
+807,2025-07-06 15:40:34,Bolsa Tiracolo,Acessórios,2,50.72,101.44,Itajubá
+808,2025-07-26 21:21:44,Calça de Moletom,Calças,5,160.4,802.0,Itajubá
+809,2025-08-11 10:04:04,Tênis Branco Casual,Calçados,2,180.25,360.5,Pouso Alegre
+810,2025-06-21 14:48:09,Sandália de Salto,Calçados,5,192.11,960.55,Itajubá
+811,2025-07-28 15:21:53,Calça de Moletom,Calças,4,160.26,641.04,Pouso Alegre
+812,2025-08-21 03:53:44,Shorts de Linho,Shorts,4,68.6,274.4,São Paulo
+813,2025-06-27 15:15:21,Shorts de Linho,Shorts,3,75.01,225.03,Itajubá
+814,2025-07-08 09:02:31,Camisa Social,Camisas,4,109.79,439.16,Itajubá
+815,2025-09-02 08:02:22,Vestido Longo de Festa,Vestidos,5,214.9,1074.5,Rio de Janeiro
+816,2025-09-05 13:30:53,Saia Midi,Saias,3,83.25,249.75,São Paulo
+817,2025-09-04 08:49:17,Calça de Moletom,Calças,5,140.2,701.0,São Paulo
+818,2025-08-05 12:12:54,Sandália de Salto,Calçados,2,169.77,339.54,Pouso Alegre
+819,2025-07-14 00:27:05,Bolsa Tiracolo,Acessórios,3,45.23,135.69,Itajubá
+820,2025-08-13 14:42:17,Shorts de Linho,Shorts,5,77.28,386.4,Pouso Alegre
+821,2025-07-28 04:29:22,Calça de Moletom,Calças,2,144.56,289.12,Rio de Janeiro
+822,2025-06-21 01:53:30,Cinto de Couro,Acessórios,2,50.95,101.9,Itajubá
+823,2025-07-07 02:45:28,Bolsa Tiracolo,Acessórios,4,49.47,197.88,Pouso Alegre
+824,2025-09-03 02:06:14,Calça Jeans Slim,Calças,1,159.68,159.68,Pouso Alegre
+825,2025-09-05 04:19:33,Saia Midi,Saias,3,81.89,245.67,São Paulo
+826,2025-07-20 00:13:55,Calça de Moletom,Calças,5,144.92,724.6,Pouso Alegre
+827,2025-07-12 22:55:07,Camisa Social,Camisas,4,102.91,411.64,Itajubá
+828,2025-08-02 23:16:00,Saia Midi,Saias,3,91.45,274.35,Rio de Janeiro
+829,2025-06-27 19:18:35,Blusa de Seda,Blusas,4,79.01,316.04,Pouso Alegre
+830,2025-06-25 11:35:52,Jaqueta de Couro Sintético,Casacos,5,255.57,1277.85,Itajubá
+831,2025-07-16 04:23:46,Shorts de Linho,Shorts,1,70.42,70.42,Pouso Alegre
+832,2025-08-20 21:52:44,Sandália de Salto,Calçados,2,180.92,361.84,Itajubá
+833,2025-06-23 19:36:18,Vestido Longo de Festa,Vestidos,4,201.41,805.64,Rio de Janeiro
+834,2025-07-29 02:30:00,Saia Midi,Saias,5,94.98,474.9,Pouso Alegre
+835,2025-06-09 12:11:32,Blusa de Seda,Blusas,3,73.94,221.82,Itajubá
+836,2025-07-23 12:31:08,Bolsa Tiracolo,Acessórios,3,46.7,140.1,Pouso Alegre
+837,2025-07-01 03:50:26,Cinto de Couro,Acessórios,5,51.41,257.05,Itajubá
+838,2025-08-30 14:47:19,Vestido de Verão,Vestidos,2,184.78,369.56,Rio de Janeiro
+839,2025-08-17 04:38:49,Bolsa Tiracolo,Acessórios,4,54.49,217.96,Itajubá
+840,2025-07-10 19:20:02,Cinto de Couro,Acessórios,4,54.49,217.96,Pouso Alegre
+841,2025-06-23 11:30:09,Jaqueta de Couro Sintético,Casacos,3,237.67,713.01,São Paulo
+842,2025-07-25 18:24:18,Tênis Branco Casual,Calçados,2,164.12,328.24,São Paulo
+843,2025-06-28 22:52:02,Cinto de Couro,Acessórios,2,45.34,90.68,Pouso Alegre
+844,2025-06-29 11:56:53,Saia Midi,Saias,2,84.98,169.96,Pouso Alegre
+845,2025-07-23 03:00:58,Shorts de Linho,Shorts,4,71.2,284.8,São Paulo
+846,2025-08-20 01:20:55,Vestido de Verão,Vestidos,4,183.87,735.48,São Paulo
+847,2025-08-03 23:53:09,Tênis Branco Casual,Calçados,1,169.41,169.41,Itajubá
+848,2025-06-11 08:28:26,Vestido de Verão,Vestidos,4,219.86,879.44,Pouso Alegre
+849,2025-06-23 15:40:21,Saia Midi,Saias,5,89.11,445.55,São Paulo
+850,2025-06-16 23:15:12,Saia Midi,Saias,1,96.14,96.14,Pouso Alegre
+851,2025-08-04 12:02:30,Vestido Longo de Festa,Vestidos,2,213.28,426.56,Itajubá
+852,2025-08-31 21:04:59,Camisa Social,Camisas,3,102.1,306.3,Itajubá
+853,2025-06-15 20:06:16,Shorts de Linho,Shorts,5,71.45,357.25,Rio de Janeiro
+854,2025-08-03 00:42:52,Calça Jeans Slim,Calças,3,146.68,440.04,Pouso Alegre
+855,2025-06-28 04:12:54,Jaqueta de Couro Sintético,Casacos,3,226.85,680.55,Itajubá
+856,2025-09-01 05:39:13,Vestido Longo de Festa,Vestidos,4,205.15,820.6,Rio de Janeiro
+857,2025-07-20 15:21:19,Sandália de Salto,Calçados,2,180.78,361.56,Pouso Alegre
+858,2025-06-22 11:35:29,Cinto de Couro,Acessórios,2,49.31,98.62,Rio de Janeiro
+859,2025-06-09 03:11:17,Bolsa Tiracolo,Acessórios,1,48.36,48.36,Rio de Janeiro
+860,2025-07-19 08:35:19,Jaqueta de Couro Sintético,Casacos,2,266.84,533.68,Pouso Alegre
+861,2025-06-19 18:51:22,Camisa Social,Camisas,3,115.91,347.73,Rio de Janeiro
+862,2025-07-06 10:47:54,Tênis Branco Casual,Calçados,1,169.21,169.21,São Paulo
+863,2025-07-07 01:12:07,Calça Jeans Slim,Calças,5,150.71,753.55,São Paulo
+864,2025-07-04 07:46:04,Calça de Moletom,Calças,5,158.34,791.7,São Paulo
+865,2025-09-02 05:54:12,Blusa de Seda,Blusas,5,86.57,432.85,São Paulo
+866,2025-07-14 19:25:34,Jaqueta de Couro Sintético,Casacos,4,252.09,1008.36,Pouso Alegre
+867,2025-06-22 19:35:43,Jaqueta de Couro Sintético,Casacos,1,256.66,256.66,São Paulo
+868,2025-06-10 21:41:37,Shorts de Linho,Shorts,1,72.83,72.83,Rio de Janeiro
+869,2025-08-26 22:18:04,Sandália de Salto,Calçados,1,182.63,182.63,Itajubá
+870,2025-08-06 04:46:39,Calça de Moletom,Calças,3,159.5,478.5,Itajubá
+871,2025-07-29 01:58:38,Shorts de Linho,Shorts,1,76.96,76.96,São Paulo
+872,2025-08-19 02:00:15,Tênis Branco Casual,Calçados,5,183.53,917.65,São Paulo
+873,2025-07-19 10:26:59,Bolsa Tiracolo,Acessórios,1,47.82,47.82,São Paulo
+874,2025-07-17 13:28:52,Blusa de Seda,Blusas,3,86.95,260.85,Itajubá
+875,2025-08-13 15:57:25,Vestido Longo de Festa,Vestidos,4,181.4,725.6,Rio de Janeiro
+876,2025-08-15 07:07:12,Jaqueta de Couro Sintético,Casacos,5,247.94,1239.7,Pouso Alegre
+877,2025-08-29 15:53:39,Shorts de Linho,Shorts,4,69.38,277.52,Rio de Janeiro
+878,2025-07-31 22:27:37,Shorts de Linho,Shorts,2,80.95,161.9,Pouso Alegre
+879,2025-08-10 10:29:13,Bolsa Tiracolo,Acessórios,5,50.35,251.75,Rio de Janeiro
+880,2025-06-08 09:02:51,Cinto de Couro,Acessórios,1,50.74,50.74,Pouso Alegre
+881,2025-07-22 12:19:37,Bolsa Tiracolo,Acessórios,2,47.05,94.1,Rio de Janeiro
+882,2025-08-21 04:31:51,Tênis Branco Casual,Calçados,2,164.09,328.18,Itajubá
+883,2025-07-15 00:36:13,Bolsa Tiracolo,Acessórios,1,49.54,49.54,São Paulo
+884,2025-06-18 00:23:11,Vestido de Verão,Vestidos,2,197.33,394.66,Rio de Janeiro
+885,2025-06-07 21:25:04,Jaqueta de Couro Sintético,Casacos,3,274.3,822.9,Rio de Janeiro
+886,2025-08-09 07:10:06,Saia Midi,Saias,1,85.48,85.48,São Paulo
+887,2025-06-15 12:18:14,Vestido Longo de Festa,Vestidos,3,206.09,618.27,Rio de Janeiro
+888,2025-07-11 10:59:40,Sandália de Salto,Calçados,1,194.77,194.77,Pouso Alegre
+889,2025-08-25 23:02:44,Blusa de Seda,Blusas,3,76.4,229.2,Rio de Janeiro
+890,2025-06-14 09:47:24,Shorts de Linho,Shorts,4,68.61,274.44,Pouso Alegre
+891,2025-06-09 01:55:26,Vestido Longo de Festa,Vestidos,4,192.12,768.48,São Paulo
+892,2025-08-04 22:17:15,Bolsa Tiracolo,Acessórios,1,54.53,54.53,São Paulo
+893,2025-07-15 06:24:50,Blusa de Seda,Blusas,2,84.16,168.32,Pouso Alegre
+894,2025-07-17 06:38:03,Vestido de Verão,Vestidos,3,197.74,593.22,Rio de Janeiro
+895,2025-07-07 05:06:44,Calça de Moletom,Calças,5,154.12,770.6,Pouso Alegre
+896,2025-07-28 06:46:44,Camisa Social,Camisas,1,112.23,112.23,Itajubá
+897,2025-06-09 21:57:35,Vestido de Verão,Vestidos,4,199.59,798.36,Itajubá
+898,2025-08-08 19:53:42,Blusa de Seda,Blusas,3,82.41,247.23,Pouso Alegre
+899,2025-07-11 17:58:40,Vestido de Verão,Vestidos,2,217.72,435.44,Itajubá
+900,2025-06-25 21:33:42,Calça de Moletom,Calças,4,150.38,601.52,São Paulo
+901,2025-08-31 00:23:53,Blusa de Seda,Blusas,3,85.76,257.28,São Paulo
+902,2025-08-29 00:07:36,Calça de Moletom,Calças,4,151.96,607.84,Pouso Alegre
+903,2025-09-01 16:43:28,Camisa Social,Camisas,3,112.51,337.53,São Paulo
+904,2025-07-20 21:17:36,Camisa Social,Camisas,3,108.47,325.41,São Paulo
+905,2025-08-01 01:40:22,Cinto de Couro,Acessórios,1,48.46,48.46,Pouso Alegre
+906,2025-08-13 18:42:53,Vestido de Verão,Vestidos,1,187.45,187.45,São Paulo
+907,2025-07-22 17:30:32,Calça Jeans Slim,Calças,2,141.46,282.92,Itajubá
+908,2025-08-25 03:33:20,Sandália de Salto,Calçados,5,191.86,959.3,Itajubá
+909,2025-06-22 18:04:20,Blusa de Seda,Blusas,5,72.43,362.15,Rio de Janeiro
+910,2025-08-21 07:36:19,Camisa Social,Camisas,3,106.7,320.1,Rio de Janeiro
+911,2025-06-11 11:42:25,Jaqueta de Couro Sintético,Casacos,3,247.7,743.1,Itajubá
+912,2025-06-18 14:56:17,Cinto de Couro,Acessórios,1,53.68,53.68,Rio de Janeiro
+913,2025-08-23 16:01:08,Shorts de Linho,Shorts,4,69.06,276.24,Pouso Alegre
+914,2025-06-21 06:17:59,Calça Jeans Slim,Calças,4,147.35,589.4,São Paulo
+915,2025-08-08 18:26:58,Sandália de Salto,Calçados,1,164.27,164.27,Rio de Janeiro
+916,2025-06-23 15:38:00,Jaqueta de Couro Sintético,Casacos,2,256.15,512.3,São Paulo
+917,2025-07-12 07:23:38,Cinto de Couro,Acessórios,5,52.36,261.8,Rio de Janeiro
+918,2025-07-11 22:48:46,Bolsa Tiracolo,Acessórios,4,51.55,206.2,Pouso Alegre
+919,2025-07-28 08:34:10,Vestido de Verão,Vestidos,1,180.8,180.8,Pouso Alegre
+920,2025-08-06 12:21:52,Saia Midi,Saias,4,96.15,384.6,Rio de Janeiro
+921,2025-06-10 11:19:46,Jaqueta de Couro Sintético,Casacos,4,259.41,1037.64,São Paulo
+922,2025-07-18 06:46:55,Sandália de Salto,Calçados,3,168.27,504.81,Itajubá
+923,2025-08-25 18:15:32,Tênis Branco Casual,Calçados,2,172.28,344.56,Pouso Alegre
+924,2025-08-10 11:08:36,Calça Jeans Slim,Calças,2,136.81,273.62,Rio de Janeiro
+925,2025-07-07 21:00:33,Shorts de Linho,Shorts,5,73.99,369.95,Pouso Alegre
+926,2025-08-10 01:02:16,Bolsa Tiracolo,Acessórios,1,48.81,48.81,Pouso Alegre
+927,2025-06-29 20:44:55,Cinto de Couro,Acessórios,4,50.01,200.04,São Paulo
+928,2025-07-08 19:24:52,Saia Midi,Saias,2,98.4,196.8,Pouso Alegre
+929,2025-08-28 03:06:40,Calça Jeans Slim,Calças,4,141.15,564.6,Itajubá
+930,2025-06-27 10:38:57,Calça Jeans Slim,Calças,1,144.52,144.52,Pouso Alegre
+931,2025-08-17 15:10:20,Calça Jeans Slim,Calças,2,144.76,289.52,Itajubá
+932,2025-09-03 04:51:05,Calça de Moletom,Calças,2,146.98,293.96,Itajubá
+933,2025-06-15 19:00:28,Jaqueta de Couro Sintético,Casacos,4,255.76,1023.04,Rio de Janeiro
+934,2025-06-22 23:05:53,Vestido Longo de Festa,Vestidos,5,218.56,1092.8,São Paulo
+935,2025-07-22 00:43:48,Cinto de Couro,Acessórios,2,50.59,101.18,Itajubá
+936,2025-07-11 03:10:41,Cinto de Couro,Acessórios,3,46.49,139.47,Itajubá
+937,2025-06-25 15:13:15,Vestido de Verão,Vestidos,2,207.32,414.64,Rio de Janeiro
+938,2025-06-25 11:05:18,Sandália de Salto,Calçados,5,176.95,884.75,Pouso Alegre
+939,2025-07-22 13:52:21,Blusa de Seda,Blusas,4,78.51,314.04,São Paulo
+940,2025-08-03 17:44:33,Calça de Moletom,Calças,2,138.26,276.52,São Paulo
+941,2025-09-05 09:09:07,Camisa Social,Camisas,1,103.27,103.27,Rio de Janeiro
+942,2025-06-30 21:02:41,Blusa de Seda,Blusas,2,77.3,154.6,Rio de Janeiro
+943,2025-08-02 09:04:41,Vestido de Verão,Vestidos,3,189.05,567.15,São Paulo
+944,2025-06-14 11:31:49,Cinto de Couro,Acessórios,2,48.23,96.46,Rio de Janeiro
+945,2025-06-25 23:33:17,Calça de Moletom,Calças,1,153.79,153.79,São Paulo
+946,2025-06-30 10:36:10,Calça de Moletom,Calças,5,157.36,786.8,São Paulo
+947,2025-08-13 05:22:19,Calça de Moletom,Calças,5,161.68,808.4,São Paulo
+948,2025-06-12 19:50:55,Tênis Branco Casual,Calçados,3,179.3,537.9,Pouso Alegre
+949,2025-08-22 00:37:56,Jaqueta de Couro Sintético,Casacos,5,249.28,1246.4,São Paulo
+950,2025-07-03 11:30:34,Saia Midi,Saias,5,89.78,448.9,Rio de Janeiro
+951,2025-07-18 01:18:41,Sandália de Salto,Calçados,5,186.61,933.05,São Paulo
+952,2025-07-23 18:25:22,Saia Midi,Saias,4,96.75,387.0,Pouso Alegre
+953,2025-08-19 01:43:21,Tênis Branco Casual,Calçados,1,193.71,193.71,Pouso Alegre
+954,2025-06-29 01:51:18,Shorts de Linho,Shorts,3,74.58,223.74,Pouso Alegre
+955,2025-07-11 00:45:41,Vestido Longo de Festa,Vestidos,1,216.56,216.56,Itajubá
+956,2025-08-07 15:49:04,Vestido Longo de Festa,Vestidos,3,200.08,600.24,Rio de Janeiro
+957,2025-06-24 18:59:32,Tênis Branco Casual,Calçados,3,176.71,530.13,Rio de Janeiro
+958,2025-06-11 06:14:32,Saia Midi,Saias,2,91.35,182.7,Pouso Alegre
+959,2025-07-06 11:25:04,Calça de Moletom,Calças,3,147.38,442.14,Itajubá
+960,2025-06-15 09:35:01,Cinto de Couro,Acessórios,4,54.09,216.36,Pouso Alegre
+961,2025-08-07 04:07:44,Vestido de Verão,Vestidos,4,186.7,746.8,Pouso Alegre
+962,2025-08-15 14:19:12,Cinto de Couro,Acessórios,5,53.69,268.45,Pouso Alegre
+963,2025-06-28 13:58:37,Blusa de Seda,Blusas,5,86.21,431.05,São Paulo
+964,2025-08-09 21:03:49,Blusa de Seda,Blusas,1,77.57,77.57,Pouso Alegre
+965,2025-06-26 20:01:03,Shorts de Linho,Shorts,3,75.89,227.67,Pouso Alegre
+966,2025-06-23 23:15:56,Bolsa Tiracolo,Acessórios,5,52.05,260.25,Pouso Alegre
+967,2025-06-22 01:58:08,Vestido de Verão,Vestidos,3,214.54,643.62,Itajubá
+968,2025-06-25 21:26:49,Jaqueta de Couro Sintético,Casacos,1,236.9,236.9,São Paulo
+969,2025-07-19 15:06:58,Camisa Social,Camisas,3,120.43,361.29,Pouso Alegre
+970,2025-06-17 13:49:36,Tênis Branco Casual,Calçados,4,170.42,681.68,São Paulo
+971,2025-08-16 16:36:12,Camisa Social,Camisas,3,113.72,341.16,Rio de Janeiro
+972,2025-08-26 00:21:48,Blusa de Seda,Blusas,5,84.84,424.2,Rio de Janeiro
+973,2025-08-29 13:02:09,Vestido de Verão,Vestidos,3,192.24,576.72,Pouso Alegre
+974,2025-08-23 00:29:38,Vestido Longo de Festa,Vestidos,5,201.48,1007.4,São Paulo
+975,2025-07-24 19:58:13,Vestido de Verão,Vestidos,3,204.64,613.92,Pouso Alegre
+976,2025-07-29 17:49:09,Saia Midi,Saias,3,93.84,281.52,São Paulo
+977,2025-08-14 09:31:37,Vestido Longo de Festa,Vestidos,2,208.34,416.68,São Paulo
+978,2025-06-30 02:41:41,Blusa de Seda,Blusas,2,76.95,153.9,São Paulo
+979,2025-08-16 04:27:27,Cinto de Couro,Acessórios,1,53.87,53.87,Rio de Janeiro
+980,2025-08-24 06:55:49,Vestido de Verão,Vestidos,2,203.53,407.06,São Paulo
+981,2025-08-18 13:34:27,Shorts de Linho,Shorts,1,81.19,81.19,Itajubá
+982,2025-06-28 17:20:59,Calça de Moletom,Calças,3,157.37,472.11,São Paulo
+983,2025-09-04 04:22:11,Calça de Moletom,Calças,1,162.72,162.72,Rio de Janeiro
+984,2025-07-27 06:18:26,Sandália de Salto,Calçados,4,186.28,745.12,Rio de Janeiro
+985,2025-07-06 09:20:39,Tênis Branco Casual,Calçados,3,196.19,588.57,Rio de Janeiro
+986,2025-06-16 00:01:54,Calça Jeans Slim,Calças,1,158.76,158.76,Pouso Alegre
+987,2025-08-10 14:35:38,Vestido Longo de Festa,Vestidos,4,208.34,833.36,São Paulo
+988,2025-07-23 12:01:03,Vestido de Verão,Vestidos,5,203.28,1016.4,Pouso Alegre
+989,2025-07-29 21:16:44,Sandália de Salto,Calçados,5,182.5,912.5,Itajubá
+990,2025-06-27 17:17:21,Saia Midi,Saias,4,98.93,395.72,Pouso Alegre
+991,2025-06-12 08:27:21,Blusa de Seda,Blusas,2,87.46,174.92,Rio de Janeiro
+992,2025-09-03 13:39:07,Camisa Social,Camisas,5,116.2,581.0,Rio de Janeiro
+993,2025-08-21 17:30:56,Bolsa Tiracolo,Acessórios,2,48.46,96.92,Rio de Janeiro
+994,2025-07-02 23:23:06,Jaqueta de Couro Sintético,Casacos,3,272.36,817.08,Rio de Janeiro
+995,2025-08-04 12:07:23,Vestido Longo de Festa,Vestidos,4,213.11,852.44,São Paulo
+996,2025-06-26 08:42:01,Calça Jeans Slim,Calças,1,158.97,158.97,Itajubá
+997,2025-08-16 01:35:17,Jaqueta de Couro Sintético,Casacos,5,251.74,1258.7,Rio de Janeiro
+998,2025-06-19 07:08:54,Calça de Moletom,Calças,1,142.31,142.31,Pouso Alegre
+999,2025-06-24 03:26:43,Camisa Social,Camisas,1,101.2,101.2,Itajubá
+1000,2025-06-16 08:41:17,Camisa Social,Camisas,5,102.99,514.95,Pouso Alegre
